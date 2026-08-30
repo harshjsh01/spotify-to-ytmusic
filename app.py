@@ -1,6 +1,15 @@
 import sys
 import argparse
 from pathlib import Path
+
+# Force UTF-8 for Windows console
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 from rich.console import Console
 from rich.panel import Panel
 from rich.prompt import Prompt, Confirm
@@ -12,7 +21,7 @@ from ytmusic_client import YTMusicClient
 from storage import Storage
 from migrator import Migrator
 
-console = Console()
+console = Console(force_terminal=True)
 
 BANNER = r"""[bold cyan]
   ____                  _   _  __           __     _________  __             _      
@@ -22,7 +31,7 @@ BANNER = r"""[bold cyan]
  |____/| .__/ \___/|___/\___/     \__/ \__/ \__,_|   |_|    |_|  |_|\__,_|___/_|\___|
        |_|                                                                           
 [/bold cyan]
-[dim]Automated Spotify ➔ YouTube Music Migration Tool (Likes, Playlists & Artists)[/dim]
+[dim]Automated Spotify -> YouTube Music Migration Tool (Likes, Playlists & Artists)[/dim]
 """
 
 

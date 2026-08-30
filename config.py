@@ -1,6 +1,16 @@
 import os
+import sys
 import json
 from pathlib import Path
+
+# Force UTF-8 for Windows console
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 from dotenv import load_dotenv
 from rich.console import Console
 from rich.panel import Panel
@@ -13,7 +23,7 @@ ENV_PATH = Path(__file__).parent / ".env"
 BROWSER_AUTH_PATH = Path(__file__).parent / "browser.json"
 OAUTH_PATH = Path(__file__).parent / "oauth.json"
 
-console = Console()
+console = Console(force_terminal=True)
 
 
 def load_config():
