@@ -1,134 +1,170 @@
+import os
+import requests
+import json
+from pathlib import Path
 from typing import List, Dict, Any, Generator, Optional
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
 
 
-SCOPES = [
-    "user-library-read",
-    "user-follow-read",
-    "playlist-read-private",
-    "playlist-read-collaborative"
-]
+class SpotifyWebClient:
+    """
+    Spotify client using the Web Player session Bearer token or spotify_data.json.
+    Works 100% for Free Spotify accounts without Spotify Developer App or Premium!
+    """
 
+    def __init__(self, token: Optional[str] = None, json_file: Optional[str] = "spotify_data.json"):
+        self.token = token.replace("Bearer ", "").strip() if token else None
+        self.json_data = None
 
-class SpotifyClient:
-    """Spotify client using standard Spotify OAuth credentials."""
+        if json_file and Path(json_file).exists():
+            with open(json_file, "r", encoding="utf-8") as f:
+                self.json_data = json.load(f)
 
-    def __init__(self, client_id: str, client_secret: str, redirect_uri: str = "http://127.0.0.1:8888/callback", cache_path: str = ".spotify_cache"):
-        self.auth_manager = SpotifyOAuth(
-            client_id=client_id,
-            client_secret=client_secret,
-            redirect_uri=redirect_uri,
-            scope=" ".join(SCOPES),
-            cache_path=cache_path,
-            open_browser=True
-        )
-        self.sp = spotipy.Spotify(auth_manager=self.auth_manager)
+    def _get_headers(self) -> Dict[str, str]:
+        return {
+            "Authorization": f"Bearer {self.token}",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+            "app-platform": "WebPlayer"
+        }
 
     def get_user_profile(self) -> Dict[str, Any]:
-        return self.sp.current_user()
+        if self.json_data:
+            return {"display_name": self.json_data.get("user", "Spotify User"), "id": "local"}
+        resp = requests.get("https://api.spotify.com/v1/me", headers=self._get_headers())
+        if resp.status_code == 200:
+            return resp.json()
+        return {"display_name": "Spotify User", "id": "web_user"}
 
     def get_liked_tracks(self) -> Generator[Dict[str, Any], None, None]:
-        """Yields all tracks from the user's Liked Songs library with pagination."""
-        offset = 0
-        limit = 50
-        while True:
-            response = self.sp.current_user_saved_tracks(limit=limit, offset=offset)
-            items = response.get("items", [])
-            if not items:
+        if self.json_data and "liked_songs" in self.json_data:
+            for t in self.json_data["liked_songs"]:
+                yield {
+                    "id": t.get("id", t.get("name")),
+                    "name": t["name"],
+                    "artists": t.get("artists", [t.get("artist", "")]),
+                    "artist_str": t.get("artist_str") or ", ".join(t.get("artists", [t.get("artist", "")])),
+                    "album": t.get("album", ""),
+                    "duration_ms": t.get("duration_ms", 0)
+                }
+            return
+
+        url = "https://api.spotify.com/v1/me/tracks?limit=50"
+        while url:
+            resp = requests.get(url, headers=self._get_headers())
+            if resp.status_code != 200:
                 break
-            for item in items:
-                track = item.get("track")
-                if track and track.get("id"):
+            data = resp.json()
+            for item in data.get("items", []):
+                t = item.get("track")
+                if t and t.get("id"):
                     yield {
-                        "id": track["id"],
-                        "name": track["name"],
-                        "artists": [a["name"] for a in track.get("artists", [])],
-                        "artist_str": ", ".join([a["name"] for a in track.get("artists", [])]),
-                        "album": track.get("album", {}).get("name", ""),
-                        "duration_ms": track.get("duration_ms", 0),
-                        "added_at": item.get("added_at", "")
+                        "id": t["id"],
+                        "name": t["name"],
+                        "artists": [a["name"] for a in t.get("artists", [])],
+                        "artist_str": ", ".join([a["name"] for a in t.get("artists", [])]),
+                        "album": t.get("album", {}).get("name", ""),
+                        "duration_ms": t.get("duration_ms", 0)
                     }
-            offset += len(items)
-            if not response.get("next"):
-                break
+            url = data.get("next")
 
     def get_liked_tracks_count(self) -> int:
-        response = self.sp.current_user_saved_tracks(limit=1)
-        return response.get("total", 0)
+        if self.json_data and "liked_songs" in self.json_data:
+            return len(self.json_data["liked_songs"])
+        resp = requests.get("https://api.spotify.com/v1/me/tracks?limit=1", headers=self._get_headers())
+        if resp.status_code == 200:
+            return resp.json().get("total", 0)
+        return 0
 
     def get_followed_artists(self) -> Generator[Dict[str, Any], None, None]:
-        """Yields all followed artists with cursor pagination."""
-        after = None
-        limit = 50
-        while True:
-            response = self.sp.current_user_followed_artists(limit=limit, after=after)
-            artists_data = response.get("artists", {})
-            items = artists_data.get("items", [])
-            if not items:
+        if self.json_data and "followed_artists" in self.json_data:
+            for a in self.json_data["followed_artists"]:
+                yield {
+                    "id": a.get("id", a.get("name")),
+                    "name": a["name"]
+                }
+            return
+
+        url = "https://api.spotify.com/v1/me/following?type=artist&limit=50"
+        while url:
+            resp = requests.get(url, headers=self._get_headers())
+            if resp.status_code != 200:
                 break
-            for item in items:
+            data = resp.json()
+            artists = data.get("artists", {})
+            for item in artists.get("items", []):
                 yield {
                     "id": item["id"],
-                    "name": item["name"],
-                    "genres": item.get("genres", []),
-                    "followers": item.get("followers", {}).get("total", 0)
+                    "name": item["name"]
                 }
-            after = artists_data.get("cursors", {}).get("after")
-            if not after or not artists_data.get("next"):
-                break
+            url = artists.get("next")
 
     def get_followed_artists_count(self) -> int:
-        response = self.sp.current_user_followed_artists(limit=1)
-        return response.get("artists", {}).get("total", 0)
+        if self.json_data and "followed_artists" in self.json_data:
+            return len(self.json_data["followed_artists"])
+        resp = requests.get("https://api.spotify.com/v1/me/following?type=artist&limit=1", headers=self._get_headers())
+        if resp.status_code == 200:
+            return resp.json().get("artists", {}).get("total", 0)
+        return 0
 
     def get_user_playlists(self) -> List[Dict[str, Any]]:
-        """Returns all playlists belonging to or followed by the user."""
-        playlists = []
-        offset = 0
-        limit = 50
-        user_id = self.sp.current_user().get("id")
+        if self.json_data and "playlists" in self.json_data:
+            return [
+                {
+                    "id": p.get("id", str(idx)),
+                    "name": p["name"],
+                    "description": p.get("description", ""),
+                    "total_tracks": len(p.get("tracks", []))
+                }
+                for idx, p in enumerate(self.json_data["playlists"])
+            ]
 
-        while True:
-            response = self.sp.current_user_playlists(limit=limit, offset=offset)
-            items = response.get("items", [])
-            if not items:
+        playlists = []
+        url = "https://api.spotify.com/v1/me/playlists?limit=50"
+        while url:
+            resp = requests.get(url, headers=self._get_headers())
+            if resp.status_code != 200:
                 break
-            for p in items:
+            data = resp.json()
+            for p in data.get("items", []):
                 playlists.append({
                     "id": p["id"],
                     "name": p["name"],
                     "description": p.get("description", ""),
-                    "total_tracks": p.get("tracks", {}).get("total", 0),
-                    "is_owner": p.get("owner", {}).get("id") == user_id,
-                    "public": p.get("public", False)
+                    "total_tracks": p.get("tracks", {}).get("total", 0)
                 })
-            offset += len(items)
-            if not response.get("next"):
-                break
+            url = data.get("next")
         return playlists
 
     def get_playlist_tracks(self, playlist_id: str) -> Generator[Dict[str, Any], None, None]:
-        """Yields all tracks for a given playlist."""
-        offset = 0
-        limit = 100
-        while True:
-            response = self.sp.playlist_items(playlist_id, limit=limit, offset=offset)
-            items = response.get("items", [])
-            if not items:
+        if self.json_data and "playlists" in self.json_data:
+            for p in self.json_data["playlists"]:
+                if p.get("id") == playlist_id or str(self.json_data["playlists"].index(p)) == playlist_id:
+                    for t in p.get("tracks", []):
+                        yield {
+                            "id": t.get("id", t.get("name")),
+                            "name": t["name"],
+                            "artists": t.get("artists", [t.get("artist", "")]),
+                            "artist_str": t.get("artist_str") or ", ".join(t.get("artists", [t.get("artist", "")])),
+                            "album": t.get("album", ""),
+                            "duration_ms": t.get("duration_ms", 0)
+                        }
+            return
+
+        url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks?limit=100"
+        while url:
+            resp = requests.get(url, headers=self._get_headers())
+            if resp.status_code != 200:
                 break
-            for item in items:
-                track = item.get("track")
-                if track and track.get("id"):
+            data = resp.json()
+            for item in data.get("items", []):
+                t = item.get("track")
+                if t and t.get("id"):
                     yield {
-                        "id": track["id"],
-                        "name": track["name"],
-                        "artists": [a["name"] for a in track.get("artists", [])],
-                        "artist_str": ", ".join([a["name"] for a in track.get("artists", [])]),
-                        "album": track.get("album", {}).get("name", ""),
-                        "duration_ms": track.get("duration_ms", 0),
-                        "added_at": item.get("added_at", "")
+                        "id": t["id"],
+                        "name": t["name"],
+                        "artists": [a["name"] for a in t.get("artists", [])],
+                        "artist_str": ", ".join([a["name"] for a in t.get("artists", [])]),
+                        "album": t.get("album", {}).get("name", ""),
+                        "duration_ms": t.get("duration_ms", 0)
                     }
-            offset += len(items)
-            if not response.get("next"):
-                break
+            url = data.get("next")
