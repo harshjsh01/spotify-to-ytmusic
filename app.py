@@ -7,14 +7,14 @@ from rich.prompt import Prompt, Confirm
 from rich.table import Table
 
 from config import get_spotify_client, ensure_ytmusic_auth
-from spotify_client import SpotifyNoDevClient
+from spotify_client import SpotifyClient
 from ytmusic_client import YTMusicClient
 from storage import Storage
 from migrator import Migrator
 
 console = Console()
 
-BANNER = """[bold cyan]
+BANNER = r"""[bold cyan]
   ____                  _   _  __           __     _________  __             _      
  / ___| _ __   ___  ___| | | | \ \         / /_ _  \__   __/ |  \/  |_   _ ___(_) ___ 
  \___ \| '_ \ / _ \/ __| | | |  \ \  /\  / / _` |    | |    | |\/| | | | / __| |/ __|
