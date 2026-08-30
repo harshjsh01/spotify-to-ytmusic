@@ -66,10 +66,10 @@ def init_clients():
 def interactive_menu(spotify: SpotifyWebClient, migrator: Migrator, storage: Storage):
     while True:
         console.print(Panel("""[bold green]Choose an action:[/bold green]
-[1] 🚀 [bold]Full Migration[/bold] (Liked Songs + Followed Artists + Playlists)
-[2] 💖 [bold]Migrate Liked Songs Only[/bold]
-[3] 📁 [bold]Migrate Playlists Only[/bold]
-[4] 👤 [bold]Migrate Followed Artists Only[/bold]
+[1] 🚀 [bold]Migrate Liked Songs[/bold]
+[2] 🔗 [bold]Migrate Playlist by URL/Link[/bold] (Paste any Spotify Playlist link)
+[3] 📁 [bold]Migrate Saved Playlists[/bold]
+[4] 👤 [bold]Migrate Followed Artists[/bold]
 [5] 📊 [bold]View Migration Stats & Status[/bold]
 [6] ❌ [bold]Exit[/bold]
 """, title="📌 Migration Options", border_style="cyan"))
@@ -77,16 +77,15 @@ def interactive_menu(spotify: SpotifyWebClient, migrator: Migrator, storage: Sto
         choice = Prompt.ask("Enter option number", choices=["1", "2", "3", "4", "5", "6"], default="1")
 
         if choice == "1":
-            console.print("\n[bold cyan]Starting Full Migration...[/bold cyan]")
-            migrator.migrate_liked_songs(also_create_playlist=True)
-            migrator.migrate_followed_artists()
-            migrator.migrate_playlists()
-            migrator.generate_report()
-
-        elif choice == "2":
             create_backup_pl = Confirm.ask("Also create a 'Spotify Liked Songs (Migrated)' backup playlist on YT Music?", default=True)
             migrator.migrate_liked_songs(also_create_playlist=create_backup_pl)
             migrator.generate_report()
+
+        elif choice == "2":
+            pl_url = Prompt.ask("[bold green]Paste Spotify Playlist URL[/bold green]").strip()
+            if pl_url:
+                from migrate_playlist_url import migrate_playlist
+                migrate_playlist(pl_url)
 
         elif choice == "3":
             playlists = spotify.get_user_playlists()
