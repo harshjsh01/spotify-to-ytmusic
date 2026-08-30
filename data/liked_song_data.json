@@ -1,0 +1,5742 @@
+{
+  "liked_songs": [
+    {
+      "name": "11K",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Batti",
+      "artists": [
+        "Seedhe Maut",
+        "Sez on the Beat",
+        "Ab 17"
+      ],
+      "artist_str": "Seedhe Maut, Sez on the Beat, Ab 17"
+    },
+    {
+      "name": "Asal G",
+      "artists": [
+        "Seedhe Maut",
+        "Faris Shafi",
+        "Talal Qureshi"
+      ],
+      "artist_str": "Seedhe Maut, Faris Shafi, Talal Qureshi"
+    },
+    {
+      "name": "TT",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Bure Din",
+      "artists": [
+        "Seedhe Maut",
+        "Mick Jenkins"
+      ],
+      "artist_str": "Seedhe Maut, Mick Jenkins"
+    },
+    {
+      "name": "Champions",
+      "artists": [
+        "Seedhe Maut",
+        "Rawal"
+      ],
+      "artist_str": "Seedhe Maut, Rawal"
+    },
+    {
+      "name": "Boyfriend",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Kath Lagda",
+      "artists": [
+        "Navaan Sandhu",
+        "Dhanda Nyoliwala",
+        "Sanya Dandona",
+        "RXTRO"
+      ],
+      "artist_str": "Navaan Sandhu, Dhanda Nyoliwala, Sanya Dandona, RXTRO"
+    },
+    {
+      "name": "Headliner",
+      "artists": [
+        "Navaan Sandhu",
+        "Haakam"
+      ],
+      "artist_str": "Navaan Sandhu, Haakam"
+    },
+    {
+      "name": "PYAAR?",
+      "artists": [
+        "Naam Sujal",
+        "Aditya Pushkarna"
+      ],
+      "artist_str": "Naam Sujal, Aditya Pushkarna"
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "aleemrk",
+        "Jokhay"
+      ],
+      "artist_str": "aleemrk, Jokhay"
+    },
+    {
+      "name": "We The Same",
+      "artists": [
+        "Addy Nagar"
+      ],
+      "artist_str": "Addy Nagar"
+    },
+    {
+      "name": "Western Up",
+      "artists": [
+        "Eshan Bhati",
+        "Ajitesh"
+      ],
+      "artist_str": "Eshan Bhati, Ajitesh"
+    },
+    {
+      "name": "Faisla",
+      "artists": [
+        "Miki Malang"
+      ],
+      "artist_str": "Miki Malang"
+    },
+    {
+      "name": "Jat Clan",
+      "artists": [
+        "Dhanda Nyoliwala",
+        "Yogi Aulakh"
+      ],
+      "artist_str": "Dhanda Nyoliwala, Yogi Aulakh"
+    },
+    {
+      "name": "Maruti",
+      "artists": [
+        "Dhanda Nyoliwala",
+        "Ron Likhari",
+        "Miki Malang"
+      ],
+      "artist_str": "Dhanda Nyoliwala, Ron Likhari, Miki Malang"
+    },
+    {
+      "name": "BHID MAT",
+      "artists": [
+        "Duryodhan Rana",
+        "Prodbysoundscape"
+      ],
+      "artist_str": "Duryodhan Rana, Prodbysoundscape"
+    },
+    {
+      "name": "La La La",
+      "artists": [
+        "Dhanda Nyoliwala"
+      ],
+      "artist_str": "Dhanda Nyoliwala"
+    },
+    {
+      "name": "4 Aadmi",
+      "artists": [
+        "Sumit Parta",
+        "Mr. Maxxx"
+      ],
+      "artist_str": "Sumit Parta, Mr. Maxxx"
+    },
+    {
+      "name": "Banna",
+      "artists": [
+        "THE U.D",
+        "Lil Urban"
+      ],
+      "artist_str": "THE U.D, Lil Urban"
+    },
+    {
+      "name": "Illusion",
+      "artists": [
+        "Rawme Hooda",
+        "Riyaazi",
+        "Nishael"
+      ],
+      "artist_str": "Rawme Hooda, Riyaazi, Nishael"
+    },
+    {
+      "name": "Bairan",
+      "artists": [
+        "Banjaare"
+      ],
+      "artist_str": "Banjaare"
+    },
+    {
+      "name": "Tainu Leke (From \"Salaam-E-Ishq\")",
+      "artists": [
+        "Sonu Nigam",
+        "Mahalakshmi Iyer"
+      ],
+      "artist_str": "Sonu Nigam, Mahalakshmi Iyer"
+    },
+    {
+      "name": "Ucha Lamba Kad",
+      "artists": [
+        "Anand Raj Anand",
+        "Kalpana Patowary",
+        "Chorus"
+      ],
+      "artist_str": "Anand Raj Anand, Kalpana Patowary, Chorus"
+    },
+    {
+      "name": "Chaudhary",
+      "artists": [
+        "Naveen Chaudhary",
+        "Kaka WRLD"
+      ],
+      "artist_str": "Naveen Chaudhary, Kaka WRLD"
+    },
+    {
+      "name": "Bheeda Palang",
+      "artists": [
+        "Bali Sharma",
+        "Anuj Bali Sharma"
+      ],
+      "artist_str": "Bali Sharma, Anuj Bali Sharma"
+    },
+    {
+      "name": "12 Bande",
+      "artists": [
+        "Varinder Brar"
+      ],
+      "artist_str": "Varinder Brar"
+    },
+    {
+      "name": "Parche - \"From Shooter\"",
+      "artists": [
+        "Karaj Randhawa"
+      ],
+      "artist_str": "Karaj Randhawa"
+    },
+    {
+      "name": "Lonely",
+      "artists": [
+        "Himesh Reshammiya",
+        "Yo Yo Honey Singh",
+        "Hamsika Iyer"
+      ],
+      "artist_str": "Himesh Reshammiya, Yo Yo Honey Singh, Hamsika Iyer"
+    },
+    {
+      "name": "What We Do",
+      "artists": [
+        "Jxggi",
+        "Sickboi"
+      ],
+      "artist_str": "Jxggi, Sickboi"
+    },
+    {
+      "name": "Kitse",
+      "artists": [
+        "Nyn Music",
+        "Mohito"
+      ],
+      "artist_str": "Nyn Music, Mohito"
+    },
+    {
+      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Bairan",
+      "artists": [
+        "Mitta Ror",
+        "Swara Verma"
+      ],
+      "artist_str": "Mitta Ror, Swara Verma"
+    },
+    {
+      "name": "WDTBU",
+      "artists": [
+        "Karma",
+        "Uptown Slick"
+      ],
+      "artist_str": "Karma, Uptown Slick"
+    },
+    {
+      "name": "Back 2 Back",
+      "artists": [
+        "Karma",
+        "Sez on the Beat"
+      ],
+      "artist_str": "Karma, Sez on the Beat"
+    },
+    {
+      "name": "Total",
+      "artists": [
+        "Rawme Hooda",
+        "Nishael",
+        "Riyaazi"
+      ],
+      "artist_str": "Rawme Hooda, Nishael, Riyaazi"
+    },
+    {
+      "name": "Faqeeran - Live",
+      "artists": [
+        "Rashmeet Kaur"
+      ],
+      "artist_str": "Rashmeet Kaur"
+    },
+    {
+      "name": "Hurr Hurr",
+      "artists": [
+        "RP Singh",
+        "Vishhh"
+      ],
+      "artist_str": "RP Singh, Vishhh"
+    },
+    {
+      "name": "Chaar Botal Vodka (From \"Ragini Mms 2\")",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Ghane Gande",
+      "artists": [
+        "Sumit Parta",
+        "Riyaazi"
+      ],
+      "artist_str": "Sumit Parta, Riyaazi"
+    },
+    {
+      "name": "Woh Lamhe Woh Baatein - From \"Zeher\"",
+      "artists": [
+        "Atif Aslam",
+        "Roop Kumar Rathod",
+        "Mithoon",
+        "Naresh Sharma"
+      ],
+      "artist_str": "Atif Aslam, Roop Kumar Rathod, Mithoon, Naresh Sharma"
+    },
+    {
+      "name": "Ishq Bawla | Coke Studio Bharat",
+      "artists": [
+        "Dhanda Nyoliwala",
+        "Xvir Grewal"
+      ],
+      "artist_str": "Dhanda Nyoliwala, Xvir Grewal"
+    },
+    {
+      "name": "Let The Music Play - Original Vocal Mix",
+      "artists": [
+        "Shamur"
+      ],
+      "artist_str": "Shamur"
+    },
+    {
+      "name": "Baller",
+      "artists": [
+        "Fateh",
+        "Straight Bank"
+      ],
+      "artist_str": "Fateh, Straight Bank"
+    },
+    {
+      "name": "Kashish",
+      "artists": [
+        "Ashish Bhatia",
+        "Omkar Singh",
+        "Kashish Ratnani"
+      ],
+      "artist_str": "Ashish Bhatia, Omkar Singh, Kashish Ratnani"
+    },
+    {
+      "name": "Naam Tera",
+      "artists": [
+        "Ndee Kundu"
+      ],
+      "artist_str": "Ndee Kundu"
+    },
+    {
+      "name": "Agg Banke",
+      "artists": [
+        "Talwiinder",
+        "NDS",
+        "Harsh Likhari",
+        "Kidjaywest"
+      ],
+      "artist_str": "Talwiinder, NDS, Harsh Likhari, Kidjaywest"
+    },
+    {
+      "name": "Haseen",
+      "artists": [
+        "Talwiinder",
+        "NDS",
+        "Rippy Grewal"
+      ],
+      "artist_str": "Talwiinder, NDS, Rippy Grewal"
+    },
+    {
+      "name": "Haan Har Ghadi",
+      "artists": [
+        "M.Jay"
+      ],
+      "artist_str": "M.Jay"
+    },
+    {
+      "name": "Heyy Babyy",
+      "artists": [
+        "Neeraj Shridhar",
+        "Raman",
+        "Pervez Qadir",
+        "Loy",
+        "Shankar-Ehsaan-Loy",
+        "Sameer Anjaan"
+      ],
+      "artist_str": "Neeraj Shridhar, Raman, Pervez Qadir, Loy, Shankar-Ehsaan-Loy, Sameer Anjaan"
+    },
+    {
+      "name": "नalla Freestyle",
+      "artists": [
+        "Seedhe Maut",
+        "DJ Sa"
+      ],
+      "artist_str": "Seedhe Maut, DJ Sa"
+    },
+    {
+      "name": "Sanson Ki Mala",
+      "artists": [
+        "Nusrat Fateh Ali Khan"
+      ],
+      "artist_str": "Nusrat Fateh Ali Khan"
+    },
+    {
+      "name": "Tune O Rangile 2.0",
+      "artists": [
+        "Atul Diwakar",
+        "Lata Mangeshkar"
+      ],
+      "artist_str": "Atul Diwakar, Lata Mangeshkar"
+    },
+    {
+      "name": "Awazein",
+      "artists": [
+        "Farhan Khan",
+        "Bhumi Maurya"
+      ],
+      "artist_str": "Farhan Khan, Bhumi Maurya"
+    },
+    {
+      "name": "Adidas",
+      "artists": [
+        "MC Amrit",
+        "Quest",
+        "3bhk"
+      ],
+      "artist_str": "MC Amrit, Quest, 3bhk"
+    },
+    {
+      "name": "RAAT KHATAM",
+      "artists": [
+        "DRV",
+        "YUNG SAMMY",
+        "Loka",
+        "Nanku"
+      ],
+      "artist_str": "DRV, YUNG SAMMY, Loka, Nanku"
+    },
+    {
+      "name": "4 Am in Karachi X 4:10",
+      "artists": [
+        "Akdas Hayat"
+      ],
+      "artist_str": "Akdas Hayat"
+    },
+    {
+      "name": "Clones",
+      "artists": [
+        "Young Stunners",
+        "Jokhay",
+        "Velo Sound Station"
+      ],
+      "artist_str": "Young Stunners, Jokhay, Velo Sound Station"
+    },
+    {
+      "name": "Mafia",
+      "artists": [
+        "Bhartiya Radio",
+        "D Hell",
+        "Nickox",
+        "Young Jeric"
+      ],
+      "artist_str": "Bhartiya Radio, D Hell, Nickox, Young Jeric"
+    },
+    {
+      "name": "Haseena",
+      "artists": [
+        "SHASHXNK"
+      ],
+      "artist_str": "SHASHXNK"
+    },
+    {
+      "name": "Jammu Weed Rap",
+      "artists": [
+        "Official Bhagat"
+      ],
+      "artist_str": "Official Bhagat"
+    },
+    {
+      "name": "BAAWE",
+      "artists": [
+        "Raftaar",
+        "Badshah",
+        "Hiten"
+      ],
+      "artist_str": "Raftaar, Badshah, Hiten"
+    },
+    {
+      "name": "Mujhe Peene Do",
+      "artists": [
+        "Arshman Naeem"
+      ],
+      "artist_str": "Arshman Naeem"
+    },
+    {
+      "name": "790001 (Outro)",
+      "artists": [
+        "Sono Lem",
+        "Longmey",
+        "Madonyx",
+        "2'7"
+      ],
+      "artist_str": "Sono Lem, Longmey, Madonyx, 2'7"
+    },
+    {
+      "name": "Fell For You",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "FARIDA DRIP",
+      "artists": [
+        "FEROZI",
+        "MC SQUARE",
+        "ZeroToOne"
+      ],
+      "artist_str": "FEROZI, MC SQUARE, ZeroToOne"
+    },
+    {
+      "name": "My Queen",
+      "artists": [
+        "KD DESIROCK",
+        "Swara Verma",
+        "Ghanu Music"
+      ],
+      "artist_str": "KD DESIROCK, Swara Verma, Ghanu Music"
+    },
+    {
+      "name": "Tour Shit!",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Pickup",
+      "artists": [
+        "Seedhe Maut",
+        "Hurricane",
+        "DL91 Era",
+        "OG Lucifer"
+      ],
+      "artist_str": "Seedhe Maut, Hurricane, DL91 Era, OG Lucifer"
+    },
+    {
+      "name": "Akatsuki",
+      "artists": [
+        "Seedhe Maut",
+        "Raga"
+      ],
+      "artist_str": "Seedhe Maut, Raga"
+    },
+    {
+      "name": "Sawaar Loon",
+      "artists": [
+        "Monali Thakur",
+        "Amit Trivedi"
+      ],
+      "artist_str": "Monali Thakur, Amit Trivedi"
+    },
+    {
+      "name": "Karta Kya Hai",
+      "artists": [
+        "Karma",
+        "Raftaar"
+      ],
+      "artist_str": "Karma, Raftaar"
+    },
+    {
+      "name": "Rooh",
+      "artists": [
+        "Tej Gill"
+      ],
+      "artist_str": "Tej Gill"
+    },
+    {
+      "name": "Sad Gaana",
+      "artists": [
+        "Bali",
+        "AN1K8T"
+      ],
+      "artist_str": "Bali, AN1K8T"
+    },
+    {
+      "name": "Pal Pal (with Talwiinder)",
+      "artists": [
+        "Afusic",
+        "Talwiinder",
+        "AliSoomroMusic"
+      ],
+      "artist_str": "Afusic, Talwiinder, AliSoomroMusic"
+    },
+    {
+      "name": "Kya Tu Theek Hai",
+      "artists": [
+        "Arpit Bala",
+        "A.O.D.",
+        "Angad Virk"
+      ],
+      "artist_str": "Arpit Bala, A.O.D., Angad Virk"
+    },
+    {
+      "name": "Bt Ho Gayi",
+      "artists": [
+        "Paradox"
+      ],
+      "artist_str": "Paradox"
+    },
+    {
+      "name": "Vishay Khatam",
+      "artists": [
+        "Naam Sujal",
+        "Aditya Pushkarna"
+      ],
+      "artist_str": "Naam Sujal, Aditya Pushkarna"
+    },
+    {
+      "name": "Cigarette",
+      "artists": [
+        "Farhan Khan",
+        "Mr. Doss"
+      ],
+      "artist_str": "Farhan Khan, Mr. Doss"
+    },
+    {
+      "name": "Banjo",
+      "artists": [
+        "Fotty Seven"
+      ],
+      "artist_str": "Fotty Seven"
+    },
+    {
+      "name": "Kamikaze",
+      "artists": [
+        "Nanku",
+        "Faizan"
+      ],
+      "artist_str": "Nanku, Faizan"
+    },
+    {
+      "name": "TERE HO KE",
+      "artists": [
+        "King",
+        "Bella"
+      ],
+      "artist_str": "King, Bella"
+    },
+    {
+      "name": "Ye Jo Halka Halka Saroor",
+      "artists": [
+        "Nusrat Fateh Ali Khan"
+      ],
+      "artist_str": "Nusrat Fateh Ali Khan"
+    },
+    {
+      "name": "OBVIOUS (feat. Hasan Raheem)",
+      "artists": [
+        "Umair",
+        "Hasan Raheem"
+      ],
+      "artist_str": "Umair, Hasan Raheem"
+    },
+    {
+      "name": "Kabhi Kabhi",
+      "artists": [
+        "AUR"
+      ],
+      "artist_str": "AUR"
+    },
+    {
+      "name": "Aura",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Tough Love",
+      "artists": [
+        "Fotty Seven"
+      ],
+      "artist_str": "Fotty Seven"
+    },
+    {
+      "name": "FUCKER WITH THE FLOW",
+      "artists": [
+        "tricksingh",
+        "Eyepatch"
+      ],
+      "artist_str": "tricksingh, Eyepatch"
+    },
+    {
+      "name": "Snowman",
+      "artists": [
+        "Sia"
+      ],
+      "artist_str": "Sia"
+    },
+    {
+      "name": "Until I Found You",
+      "artists": [
+        "Stephen Sanchez"
+      ],
+      "artist_str": "Stephen Sanchez"
+    },
+    {
+      "name": "Khwab Ho Tum Ya Koi Haqeeqat",
+      "artists": [
+        "Kishore Kumar",
+        "S. D. Burman"
+      ],
+      "artist_str": "Kishore Kumar, S. D. Burman"
+    },
+    {
+      "name": "Shaayar",
+      "artists": [
+        "Bharat Chauhan",
+        "Seedhe Maut"
+      ],
+      "artist_str": "Bharat Chauhan, Seedhe Maut"
+    },
+    {
+      "name": "Ishq Bulaava",
+      "artists": [
+        "Vishal-Shekhar",
+        "Sanam Puri",
+        "Shipra Goyal"
+      ],
+      "artist_str": "Vishal-Shekhar, Sanam Puri, Shipra Goyal"
+    },
+    {
+      "name": "Prove Them Wrong",
+      "artists": [
+        "Bella",
+        "Abhi Kesla"
+      ],
+      "artist_str": "Bella, Abhi Kesla"
+    },
+    {
+      "name": "4U",
+      "artists": [
+        "Maanu"
+      ],
+      "artist_str": "Maanu"
+    },
+    {
+      "name": "Ajnabi",
+      "artists": [
+        "Farhan Khan",
+        "Udit Narayan",
+        "DRJ Sohail"
+      ],
+      "artist_str": "Farhan Khan, Udit Narayan, DRJ Sohail"
+    },
+    {
+      "name": "Hoshiyaar",
+      "artists": [
+        "Seedhe Maut",
+        "Sez on the Beat"
+      ],
+      "artist_str": "Seedhe Maut, Sez on the Beat"
+    },
+    {
+      "name": "Yaarana",
+      "artists": [
+        "Nazz"
+      ],
+      "artist_str": "Nazz"
+    },
+    {
+      "name": "Alpha's Goodbye",
+      "artists": [
+        "King"
+      ],
+      "artist_str": "King"
+    },
+    {
+      "name": "RIHA",
+      "artists": [
+        "RvD",
+        "Rishabh Raijada"
+      ],
+      "artist_str": "RvD, Rishabh Raijada"
+    },
+    {
+      "name": "Sanson Ki Mala",
+      "artists": [
+        "Rahat Fateh Ali Khan"
+      ],
+      "artist_str": "Rahat Fateh Ali Khan"
+    },
+    {
+      "name": "Sanson Ki Mala Pe",
+      "artists": [
+        "Nusrat Fateh Ali Khan"
+      ],
+      "artist_str": "Nusrat Fateh Ali Khan"
+    },
+    {
+      "name": "Tum Ho",
+      "artists": [
+        "Mohit Chauhan",
+        "Suzanne D'Mello"
+      ],
+      "artist_str": "Mohit Chauhan, Suzanne D'Mello"
+    },
+    {
+      "name": "Jo Bhi Main",
+      "artists": [
+        "Mohit Chauhan"
+      ],
+      "artist_str": "Mohit Chauhan"
+    },
+    {
+      "name": "SHUTDOWN",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Shakti Aur Kshama",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Gourmet Shit!",
+      "artists": [
+        "Seedhe Maut",
+        "Raftaar"
+      ],
+      "artist_str": "Seedhe Maut, Raftaar"
+    },
+    {
+      "name": "Gulabi Ankhen - From \"The Train\"",
+      "artists": [
+        "Mohammed Rafi",
+        "R. D. Burman"
+      ],
+      "artist_str": "Mohammed Rafi, R. D. Burman"
+    },
+    {
+      "name": "Saibo",
+      "artists": [
+        "Sachin-Jigar",
+        "Shreya Ghoshal",
+        "Tochi Raina"
+      ],
+      "artist_str": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina"
+    },
+    {
+      "name": "Maina",
+      "artists": [
+        "Seedhe Maut",
+        "Sez on the Beat"
+      ],
+      "artist_str": "Seedhe Maut, Sez on the Beat"
+    },
+    {
+      "name": "COME THROUGH (feat. Abdullah Maharvi & Talha Anjum)",
+      "artists": [
+        "Umair",
+        "Abdullah Maharvi",
+        "Talha Anjum"
+      ],
+      "artist_str": "Umair, Abdullah Maharvi, Talha Anjum"
+    },
+    {
+      "name": "Departure Lane",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "REGRETS",
+      "artists": [
+        "Jevin Gill",
+        "Umair",
+        "Talha Anjum"
+      ],
+      "artist_str": "Jevin Gill, Umair, Talha Anjum"
+    },
+    {
+      "name": "love lost",
+      "artists": [
+        "Umair",
+        "Talha Anjum"
+      ],
+      "artist_str": "Umair, Talha Anjum"
+    },
+    {
+      "name": "smile",
+      "artists": [
+        "Umair",
+        "Talha Anjum"
+      ],
+      "artist_str": "Umair, Talha Anjum"
+    },
+    {
+      "name": "Jasmine",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Loneliness",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Heartbreak Kid",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Incurable Sadness",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Falling",
+      "artists": [
+        "Trevor Daniel"
+      ],
+      "artist_str": "Trevor Daniel"
+    },
+    {
+      "name": "Mann Mera",
+      "artists": [
+        "Gajendra Verma"
+      ],
+      "artist_str": "Gajendra Verma"
+    },
+    {
+      "name": "O Mere Dil Ke Chain",
+      "artists": [
+        "Kishore Kumar",
+        "R. D. Burman"
+      ],
+      "artist_str": "Kishore Kumar, R. D. Burman"
+    },
+    {
+      "name": "Fairytale",
+      "artists": [
+        "Alexander Rybak"
+      ],
+      "artist_str": "Alexander Rybak"
+    },
+    {
+      "name": "Talk To Me",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Zindagi",
+      "artists": [
+        "J Trix",
+        "Subspace"
+      ],
+      "artist_str": "J Trix, Subspace"
+    },
+    {
+      "name": "Dil Diyan Gallan",
+      "artists": [
+        "Atif Aslam"
+      ],
+      "artist_str": "Atif Aslam"
+    },
+    {
+      "name": "The Way Life Goes (feat. Oh Wonder)",
+      "artists": [
+        "Lil Uzi Vert",
+        "Oh Wonder"
+      ],
+      "artist_str": "Lil Uzi Vert, Oh Wonder"
+    },
+    {
+      "name": "HIIR",
+      "artists": [
+        "Armaan Malik",
+        "Lost Stories",
+        "Yashraj",
+        "Kimeraa"
+      ],
+      "artist_str": "Armaan Malik, Lost Stories, Yashraj, Kimeraa"
+    },
+    {
+      "name": "Yezdi",
+      "artists": [
+        "Nanku"
+      ],
+      "artist_str": "Nanku"
+    },
+    {
+      "name": "Confessions",
+      "artists": [
+        "Fotty Seven"
+      ],
+      "artist_str": "Fotty Seven"
+    },
+    {
+      "name": "Khuda",
+      "artists": [
+        "Katoptris",
+        "mohit"
+      ],
+      "artist_str": "Katoptris, mohit"
+    },
+    {
+      "name": "Ek Saath",
+      "artists": [
+        "Dropped Out",
+        "mohit",
+        "Yashraj"
+      ],
+      "artist_str": "Dropped Out, mohit, Yashraj"
+    },
+    {
+      "name": "Musafir",
+      "artists": [
+        "Yashraj",
+        "Akash Shravan"
+      ],
+      "artist_str": "Yashraj, Akash Shravan"
+    },
+    {
+      "name": "Hausla",
+      "artists": [
+        "Yashraj",
+        "Burrah",
+        "Dropped Out"
+      ],
+      "artist_str": "Yashraj, Burrah, Dropped Out"
+    },
+    {
+      "name": "Tera Saath",
+      "artists": [
+        "Talwiinder",
+        "Vylom"
+      ],
+      "artist_str": "Talwiinder, Vylom"
+    },
+    {
+      "name": "Your Eyes",
+      "artists": [
+        "Talwiinder",
+        "30KEY!"
+      ],
+      "artist_str": "Talwiinder, 30KEY!"
+    },
+    {
+      "name": "Balam Pichkari",
+      "artists": [
+        "Pritam",
+        "Vishal Dadlani",
+        "Shalmali Kholgade",
+        "Amitabh Bhattacharya"
+      ],
+      "artist_str": "Pritam, Vishal Dadlani, Shalmali Kholgade, Amitabh Bhattacharya"
+    },
+    {
+      "name": "Raftaarein",
+      "artists": [
+        "Vishal-Shekhar",
+        "Vishal Dadlani",
+        "Shekhar Ravjiani"
+      ],
+      "artist_str": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani"
+    },
+    {
+      "name": "I Hate Luv Storys",
+      "artists": [
+        "Vishal-Shekhar",
+        "Vishal Dadlani"
+      ],
+      "artist_str": "Vishal-Shekhar, Vishal Dadlani"
+    },
+    {
+      "name": "Dhan Te Nan",
+      "artists": [
+        "Sukhwinder Singh",
+        "Vishal Dadlani",
+        "Robert Bob Omulo"
+      ],
+      "artist_str": "Sukhwinder Singh, Vishal Dadlani, Robert Bob Omulo"
+    },
+    {
+      "name": "Phir Bhi Tumko Chaahunga",
+      "artists": [
+        "Mithoon",
+        "Manoj Muntashir",
+        "Arijit Singh",
+        "Shashaa Tirupati"
+      ],
+      "artist_str": "Mithoon, Manoj Muntashir, Arijit Singh, Shashaa Tirupati"
+    },
+    {
+      "name": "Tum Hi Ho",
+      "artists": [
+        "Arijit Singh",
+        "Mithoon"
+      ],
+      "artist_str": "Arijit Singh, Mithoon"
+    },
+    {
+      "name": "Ik Vaari Aa",
+      "artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Amitabh Bhattacharya"
+      ],
+      "artist_str": "Pritam, Arijit Singh, Amitabh Bhattacharya"
+    },
+    {
+      "name": "Hatasha.",
+      "artists": [
+        "Hardbone boy",
+        "SINASH"
+      ],
+      "artist_str": "Hardbone boy, SINASH"
+    },
+    {
+      "name": "Ambarsariya",
+      "artists": [
+        "Sona Mohapatra",
+        "Ram Sampath",
+        "Munna Dhiman"
+      ],
+      "artist_str": "Sona Mohapatra, Ram Sampath, Munna Dhiman"
+    },
+    {
+      "name": "Sadqay",
+      "artists": [
+        "Aashir Wajahat",
+        "NAYEL",
+        "Nehaal Naseem"
+      ],
+      "artist_str": "Aashir Wajahat, NAYEL, Nehaal Naseem"
+    },
+    {
+      "name": "Liggi",
+      "artists": [
+        "Ritviz"
+      ],
+      "artist_str": "Ritviz"
+    },
+    {
+      "name": "Kabhi Mein Kabhi Tum",
+      "artists": [
+        "AUR"
+      ],
+      "artist_str": "AUR"
+    },
+    {
+      "name": "Sometimes",
+      "artists": [
+        "AUR"
+      ],
+      "artist_str": "AUR"
+    },
+    {
+      "name": "Jo Tum Mere Ho",
+      "artists": [
+        "Anuv Jain"
+      ],
+      "artist_str": "Anuv Jain"
+    },
+    {
+      "name": "Long time no see",
+      "artists": [
+        "Taimour Baig",
+        "Raffey Anwar",
+        "AUR"
+      ],
+      "artist_str": "Taimour Baig, Raffey Anwar, AUR"
+    },
+    {
+      "name": "Hasti Rahe Tu",
+      "artists": [
+        "Paradox"
+      ],
+      "artist_str": "Paradox"
+    },
+    {
+      "name": "Prime Time",
+      "artists": [
+        "Qaab",
+        "Abix"
+      ],
+      "artist_str": "Qaab, Abix"
+    },
+    {
+      "name": "Teri Meri Kahaani",
+      "artists": [
+        "Palak Muchhal",
+        "Manoj Yadav",
+        "Arijit Singh"
+      ],
+      "artist_str": "Palak Muchhal, Manoj Yadav, Arijit Singh"
+    },
+    {
+      "name": "Gallan 4",
+      "artists": [
+        "Talwiinder"
+      ],
+      "artist_str": "Talwiinder"
+    },
+    {
+      "name": "Sau Tarah Ke",
+      "artists": [
+        "Pritam",
+        "Jonita Gandhi",
+        "Amit Mishra",
+        "Kumaar",
+        "Ashish Pandit"
+      ],
+      "artist_str": "Pritam, Jonita Gandhi, Amit Mishra, Kumaar, Ashish Pandit"
+    },
+    {
+      "name": "Rani Tu Mein Raja",
+      "artists": [
+        "Mika Singh",
+        "Bhavya Pandit",
+        "Yo Yo Honey Singh",
+        "Himesh Reshammiya",
+        "Sameer Anjaan"
+      ],
+      "artist_str": "Mika Singh, Bhavya Pandit, Yo Yo Honey Singh, Himesh Reshammiya, Sameer Anjaan"
+    },
+    {
+      "name": "Mere Buddy",
+      "artists": [
+        "Vishal-Shekhar",
+        "Amitabh Bachchan",
+        "Armaan Malik"
+      ],
+      "artist_str": "Vishal-Shekhar, Amitabh Bachchan, Armaan Malik"
+    },
+    {
+      "name": "Ucha Lamba Kad",
+      "artists": [
+        "Anand Raj Anand"
+      ],
+      "artist_str": "Anand Raj Anand"
+    },
+    {
+      "name": "Jhalak Dikhla Ja",
+      "artists": [
+        "Himesh Reshammiya"
+      ],
+      "artist_str": "Himesh Reshammiya"
+    },
+    {
+      "name": "Mujhko Yaad Sataye Teri",
+      "artists": [
+        "Himesh Reshammiya"
+      ],
+      "artist_str": "Himesh Reshammiya"
+    },
+    {
+      "name": "There's Nothing Holdin' Me Back",
+      "artists": [
+        "Shawn Mendes"
+      ],
+      "artist_str": "Shawn Mendes"
+    },
+    {
+      "name": "Alag Aasmaan",
+      "artists": [
+        "Anuv Jain"
+      ],
+      "artist_str": "Anuv Jain"
+    },
+    {
+      "name": "Downers at Dusk",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "DLL",
+      "artists": [
+        "Yashraj",
+        "faizal"
+      ],
+      "artist_str": "Yashraj, faizal"
+    },
+    {
+      "name": "Ishq Nachaawe - From \"Kho Gaye Hum Kahan\"",
+      "artists": [
+        "Karan Kanchan",
+        "Rashmeet Kaur",
+        "Yashraj",
+        "Dhrruv Yogi"
+      ],
+      "artist_str": "Karan Kanchan, Rashmeet Kaur, Yashraj, Dhrruv Yogi"
+    },
+    {
+      "name": "Tera Ghata",
+      "artists": [
+        "Gajendra Verma"
+      ],
+      "artist_str": "Gajendra Verma"
+    },
+    {
+      "name": "Ma Belle",
+      "artists": [
+        "AP Dhillon",
+        "Amari"
+      ],
+      "artist_str": "AP Dhillon, Amari"
+    },
+    {
+      "name": "Afterhours",
+      "artists": [
+        "Bir",
+        "thiarajxtt"
+      ],
+      "artist_str": "Bir, thiarajxtt"
+    },
+    {
+      "name": "One Dance",
+      "artists": [
+        "Drake",
+        "Wizkid",
+        "Kyla"
+      ],
+      "artist_str": "Drake, Wizkid, Kyla"
+    },
+    {
+      "name": "Thunder",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "artist_str": "Imagine Dragons"
+    },
+    {
+      "name": "BILLIE EILISH.",
+      "artists": [
+        "Armani White"
+      ],
+      "artist_str": "Armani White"
+    },
+    {
+      "name": "Starboy",
+      "artists": [
+        "The Weeknd",
+        "Daft Punk"
+      ],
+      "artist_str": "The Weeknd, Daft Punk"
+    },
+    {
+      "name": "Havana (feat. Young Thug)",
+      "artists": [
+        "Camila Cabello",
+        "Young Thug"
+      ],
+      "artist_str": "Camila Cabello, Young Thug"
+    },
+    {
+      "name": "Ik Vaari Aa (From \"Raabta\")",
+      "artists": [
+        "Pritam",
+        "Arijit Singh"
+      ],
+      "artist_str": "Pritam, Arijit Singh"
+    },
+    {
+      "name": "Mast Kalander",
+      "artists": [
+        "Mika Singh",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Mika Singh, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Aankhon Aankhon",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Soni De Nakhre",
+      "artists": [
+        "Wajid",
+        "Labh Janjua",
+        "Sneha Pant",
+        "Sajid-Wajid",
+        "Shabbir Ahmed"
+      ],
+      "artist_str": "Wajid, Labh Janjua, Sneha Pant, Sajid-Wajid, Shabbir Ahmed"
+    },
+    {
+      "name": "Dreamum Wakeupum",
+      "artists": [
+        "Sowmya Raoh",
+        "Amit Trivedi",
+        "Amitabh Bhattacharya"
+      ],
+      "artist_str": "Sowmya Raoh, Amit Trivedi, Amitabh Bhattacharya"
+    },
+    {
+      "name": "Sajna, Say Yes To The Dress",
+      "artists": [
+        "Badshah",
+        "Payal Dev"
+      ],
+      "artist_str": "Badshah, Payal Dev"
+    },
+    {
+      "name": "Milegi Milegi (From \"Stree\")",
+      "artists": [
+        "Mika Singh",
+        "Sachin-Jigar"
+      ],
+      "artist_str": "Mika Singh, Sachin-Jigar"
+    },
+    {
+      "name": "Dus Bahane",
+      "artists": [
+        "Vishal-Shekhar",
+        "Shaan",
+        "KK"
+      ],
+      "artist_str": "Vishal-Shekhar, Shaan, KK"
+    },
+    {
+      "name": "Aahun Aahun",
+      "artists": [
+        "Pritam",
+        "Neeraj Shridhar",
+        "Master Saleem",
+        "Suzi Q",
+        "Irshad Kamil"
+      ],
+      "artist_str": "Pritam, Neeraj Shridhar, Master Saleem, Suzi Q, Irshad Kamil"
+    },
+    {
+      "name": "Chor Bazaari",
+      "artists": [
+        "Pritam",
+        "Neeraj Shridhar",
+        "Sunidhi Chauhan",
+        "Irshad Kamil"
+      ],
+      "artist_str": "Pritam, Neeraj Shridhar, Sunidhi Chauhan, Irshad Kamil"
+    },
+    {
+      "name": "Caller Tune",
+      "artists": [
+        "Neeti Mohan",
+        "Neeraj Shridhar"
+      ],
+      "artist_str": "Neeti Mohan, Neeraj Shridhar"
+    },
+    {
+      "name": "Samjho Na",
+      "artists": [
+        "Aditya Rikhari"
+      ],
+      "artist_str": "Aditya Rikhari"
+    },
+    {
+      "name": "Joota Japani",
+      "artists": [
+        "KR$NA",
+        "Umair",
+        "Mukesh"
+      ],
+      "artist_str": "KR$NA, Umair, Mukesh"
+    },
+    {
+      "name": "315 (feat. Shinda Kahlon & Jazzy B)",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon",
+        "Jazzy B"
+      ],
+      "artist_str": "AP Dhillon, Shinda Kahlon, Jazzy B"
+    },
+    {
+      "name": "Desi Hood",
+      "artists": [
+        "Krish Rao"
+      ],
+      "artist_str": "Krish Rao"
+    },
+    {
+      "name": "True Stories",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon"
+      ],
+      "artist_str": "AP Dhillon, Shinda Kahlon"
+    },
+    {
+      "name": "Russian Bandana",
+      "artists": [
+        "Dhanda Nyoliwala"
+      ],
+      "artist_str": "Dhanda Nyoliwala"
+    },
+    {
+      "name": "Nanchaku",
+      "artists": [
+        "Seedhe Maut",
+        "MC STAN"
+      ],
+      "artist_str": "Seedhe Maut, MC STAN"
+    },
+    {
+      "name": "Namastute",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "GOAT SHIT",
+      "artists": [
+        "King",
+        "Karma"
+      ],
+      "artist_str": "King, Karma"
+    },
+    {
+      "name": "Luka Chippi",
+      "artists": [
+        "Seedhe Maut",
+        "Bandzo3rd"
+      ],
+      "artist_str": "Seedhe Maut, Bandzo3rd"
+    },
+    {
+      "name": "Hola Amigo",
+      "artists": [
+        "KR$NA",
+        "Seedhe Maut",
+        "Umair",
+        "Krishna Kaul",
+        "Siddhant Sharma",
+        "Abhijay Negi"
+      ],
+      "artist_str": "KR$NA, Seedhe Maut, Umair, Krishna Kaul, Siddhant Sharma, Abhijay Negi"
+    },
+    {
+      "name": "Khatta Flow",
+      "artists": [
+        "Seedhe Maut",
+        "KR$NA"
+      ],
+      "artist_str": "Seedhe Maut, KR$NA"
+    },
+    {
+      "name": "KODAK",
+      "artists": [
+        "King",
+        "Seedhe Maut"
+      ],
+      "artist_str": "King, Seedhe Maut"
+    },
+    {
+      "name": "Babaji Ki Booti",
+      "artists": [
+        "Sachin-Jigar",
+        "Anand Tiwari",
+        "Kunal Khemu",
+        "Raj Nidimoru",
+        "Krishna DK",
+        "Bornalee Deuri"
+      ],
+      "artist_str": "Sachin-Jigar, Anand Tiwari, Kunal Khemu, Raj Nidimoru, Krishna DK, Bornalee Deuri"
+    },
+    {
+      "name": "Ik Lamha",
+      "artists": [
+        "Azaan Sami Khan"
+      ],
+      "artist_str": "Azaan Sami Khan"
+    },
+    {
+      "name": "Chhori",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Paradox"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Paradox"
+    },
+    {
+      "name": "Chal Mere Ghar",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "One Thousand Miles",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Daftar Ki Girl",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Brown Rang",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Angreji Beat",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Gippy Grewal"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Gippy Grewal"
+    },
+    {
+      "name": "Kangna",
+      "artists": [
+        "Dr Zeus",
+        "Master Rakesh",
+        "Shortie",
+        "Deepti"
+      ],
+      "artist_str": "Dr Zeus, Master Rakesh, Shortie, Deepti"
+    },
+    {
+      "name": "MVP",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Ruthless",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Hood Anthem",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Yaadan",
+      "artists": [
+        "Sardool Sikander",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Sardool Sikander, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Yaad",
+      "artists": [
+        "Romey Gill"
+      ],
+      "artist_str": "Romey Gill"
+    },
+    {
+      "name": "Sambhley",
+      "artists": [
+        "Manak Ali"
+      ],
+      "artist_str": "Manak Ali"
+    },
+    {
+      "name": "Mujh Ko Jane Do",
+      "artists": [
+        "Raj Brar"
+      ],
+      "artist_str": "Raj Brar"
+    },
+    {
+      "name": "Head Banger",
+      "artists": [
+        "Escape"
+      ],
+      "artist_str": "Escape"
+    },
+    {
+      "name": "Garaari",
+      "artists": [
+        "Meet Malkit"
+      ],
+      "artist_str": "Meet Malkit"
+    },
+    {
+      "name": "Dope Shope",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Deep Money"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Deep Money"
+    },
+    {
+      "name": "BLUE",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "artist_str": "Billie Eilish"
+    },
+    {
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "artists": [
+        "The Weeknd",
+        "JENNIE",
+        "Lily-Rose Depp"
+      ],
+      "artist_str": "The Weeknd, JENNIE, Lily-Rose Depp"
+    },
+    {
+      "name": "BIRDS OF A FEATHER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "artist_str": "Billie Eilish"
+    },
+    {
+      "name": "WOH",
+      "artists": [
+        "Ikka",
+        "Dino James",
+        "Badshah"
+      ],
+      "artist_str": "Ikka, Dino James, Badshah"
+    },
+    {
+      "name": "Rubicon Drill",
+      "artists": [
+        "Laddi Chahal",
+        "Parmish Verma",
+        "Gurlez Akhtar"
+      ],
+      "artist_str": "Laddi Chahal, Parmish Verma, Gurlez Akhtar"
+    },
+    {
+      "name": "Haramzada",
+      "artists": [
+        "Bali",
+        "Fotty Seven",
+        "Enzo"
+      ],
+      "artist_str": "Bali, Fotty Seven, Enzo"
+    },
+    {
+      "name": "House Of Lies",
+      "artists": [
+        "Ikka",
+        "Karan Aujla",
+        "Sanjoy"
+      ],
+      "artist_str": "Ikka, Karan Aujla, Sanjoy"
+    },
+    {
+      "name": "Naksha",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "BAWE MAIN CHECK",
+      "artists": [
+        "King",
+        "Raga"
+      ],
+      "artist_str": "King, Raga"
+    },
+    {
+      "name": "WARCRY",
+      "artists": [
+        "King",
+        "Raftaar"
+      ],
+      "artist_str": "King, Raftaar"
+    },
+    {
+      "name": "Raat Ki Rani",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "name": "Bhai Hai",
+      "artists": [
+        "Fotty Seven",
+        "Bali",
+        "Enzo"
+      ],
+      "artist_str": "Fotty Seven, Bali, Enzo"
+    },
+    {
+      "name": "Mera Deewanapan",
+      "artists": [
+        "Amrinder Gill",
+        "Dr Zeus"
+      ],
+      "artist_str": "Amrinder Gill, Dr Zeus"
+    },
+    {
+      "name": "That Girl",
+      "artists": [
+        "Amrinder Gill",
+        "Dr Zeus",
+        "Raj Ranjodh"
+      ],
+      "artist_str": "Amrinder Gill, Dr Zeus, Raj Ranjodh"
+    },
+    {
+      "name": "Meri Tu",
+      "artists": [
+        "GVL KHAN"
+      ],
+      "artist_str": "GVL KHAN"
+    },
+    {
+      "name": "Mithi Gallan",
+      "artists": [
+        "GVL KHAN",
+        "dotxb"
+      ],
+      "artist_str": "GVL KHAN, dotxb"
+    },
+    {
+      "name": "Thinking about you",
+      "artists": [
+        "GVL KHAN"
+      ],
+      "artist_str": "GVL KHAN"
+    },
+    {
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "artist_str": "Eminem"
+    },
+    {
+      "name": "Haal",
+      "artists": [
+        "Talwiinder",
+        "Retro Blxxd"
+      ],
+      "artist_str": "Talwiinder, Retro Blxxd"
+    },
+    {
+      "name": "Nasha",
+      "artists": [
+        "Talwiinder",
+        "Vision"
+      ],
+      "artist_str": "Talwiinder, Vision"
+    },
+    {
+      "name": "Tu",
+      "artists": [
+        "Talwiinder",
+        "Sanjoy"
+      ],
+      "artist_str": "Talwiinder, Sanjoy"
+    },
+    {
+      "name": "DND",
+      "artists": [
+        "Real Boss",
+        "Talwiinder",
+        "BIG KAY SMG"
+      ],
+      "artist_str": "Real Boss, Talwiinder, BIG KAY SMG"
+    },
+    {
+      "name": "Sheeshe Wali Chunni",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Girik Aman",
+        "Kartavya"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Girik Aman, Kartavya"
+    },
+    {
+      "name": "Caliente",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Rounds N Ring",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Navaan Sandhu",
+        "Bonafide"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Navaan Sandhu, Bonafide"
+    },
+    {
+      "name": "Malamaal",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Yina Menez"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Yina Menez"
+    },
+    {
+      "name": "Hide It",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Fuck Them",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Leo Grewal"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Leo Grewal"
+    },
+    {
+      "name": "Jatt Mehkma",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Payal",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Paradox"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Paradox"
+    },
+    {
+      "name": "Kneel",
+      "artists": [
+        "NIJJAR",
+        "Gurlez Akhtar"
+      ],
+      "artist_str": "NIJJAR, Gurlez Akhtar"
+    },
+    {
+      "name": "Name",
+      "artists": [
+        "NIJJAR",
+        "Deepak Dhillion"
+      ],
+      "artist_str": "NIJJAR, Deepak Dhillion"
+    },
+    {
+      "name": "Trend",
+      "artists": [
+        "NIJJAR"
+      ],
+      "artist_str": "NIJJAR"
+    },
+    {
+      "name": "Beautiful",
+      "artists": [
+        "Malkit Singh"
+      ],
+      "artist_str": "Malkit Singh"
+    },
+    {
+      "name": "Aashke",
+      "artists": [
+        "Money Aujla"
+      ],
+      "artist_str": "Money Aujla"
+    },
+    {
+      "name": "Love Dose",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Desi Kalakaar",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Y.D.G",
+      "artists": [
+        "Karan Aujla",
+        "Yeah Proof"
+      ],
+      "artist_str": "Karan Aujla, Yeah Proof"
+    },
+    {
+      "name": "WHO THEY?",
+      "artists": [
+        "Karan Aujla",
+        "Yeah Proof"
+      ],
+      "artist_str": "Karan Aujla, Yeah Proof"
+    },
+    {
+      "name": "Car Culture",
+      "artists": [
+        "Laddi Chahal",
+        "Gurlez Akhtar",
+        "Parmish Verma"
+      ],
+      "artist_str": "Laddi Chahal, Gurlez Akhtar, Parmish Verma"
+    },
+    {
+      "name": "RANI",
+      "artists": [
+        "J Trix",
+        "Ramoon"
+      ],
+      "artist_str": "J Trix, Ramoon"
+    },
+    {
+      "name": "Powerplay",
+      "artists": [
+        "Parmish Verma",
+        "Agsy",
+        "Kaptaan"
+      ],
+      "artist_str": "Parmish Verma, Agsy, Kaptaan"
+    },
+    {
+      "name": "Tala",
+      "artists": [
+        "Skeletron"
+      ],
+      "artist_str": "Skeletron"
+    },
+    {
+      "name": "Feel Your Love (Rapture)",
+      "artists": [
+        "Duncan Laurence",
+        "Tanishk Bagchi",
+        "Ganesh Waghela"
+      ],
+      "artist_str": "Duncan Laurence, Tanishk Bagchi, Ganesh Waghela"
+    },
+    {
+      "name": "LC",
+      "artists": [
+        "DJ Flow",
+        "Sultaan",
+        "Balkar"
+      ],
+      "artist_str": "DJ Flow, Sultaan, Balkar"
+    },
+    {
+      "name": "Maan Ja Chhori",
+      "artists": [
+        "MC SQUARE",
+        "Harjas Harjaayi"
+      ],
+      "artist_str": "MC SQUARE, Harjas Harjaayi"
+    },
+    {
+      "name": "Nakhre",
+      "artists": [
+        "Zack Knight"
+      ],
+      "artist_str": "Zack Knight"
+    },
+    {
+      "name": "IDK HOW",
+      "artists": [
+        "Karan Aujla"
+      ],
+      "artist_str": "Karan Aujla"
+    },
+    {
+      "name": "Ambarsaria",
+      "artists": [
+        "Navaan Sandhu",
+        "Homeboy",
+        "Kaater"
+      ],
+      "artist_str": "Navaan Sandhu, Homeboy, Kaater"
+    },
+    {
+      "name": "ANTIDOTE",
+      "artists": [
+        "Karan Aujla"
+      ],
+      "artist_str": "Karan Aujla"
+    },
+    {
+      "name": "Accounts",
+      "artists": [
+        "NIJJAR",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "NIJJAR, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Akhiyan",
+      "artists": [
+        "Harkirat Sangha",
+        "Starboy X"
+      ],
+      "artist_str": "Harkirat Sangha, Starboy X"
+    },
+    {
+      "name": "Be Mine",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Mirchi",
+      "artists": [
+        "DIVINE",
+        "MC Altaf",
+        "Stylo G",
+        "Phenom"
+      ],
+      "artist_str": "DIVINE, MC Altaf, Stylo G, Phenom"
+    },
+    {
+      "name": "Paisa - From \"De Dana Dan\"",
+      "artists": [
+        "RDB",
+        "Manak-E",
+        "Selina"
+      ],
+      "artist_str": "RDB, Manak-E, Selina"
+    },
+    {
+      "name": "Mayya",
+      "artists": [
+        "A.R. Rahman",
+        "Mariam Toller",
+        "Chinmayi",
+        "KIRTI SAGATHIA"
+      ],
+      "artist_str": "A.R. Rahman, Mariam Toller, Chinmayi, KIRTI SAGATHIA"
+    },
+    {
+      "name": "Har Kisi Ko (From \"Boss)",
+      "artists": [
+        "Arijit Singh",
+        "Neeti Mohan"
+      ],
+      "artist_str": "Arijit Singh, Neeti Mohan"
+    },
+    {
+      "name": "Laila",
+      "artists": [
+        "Anand Raj Anand",
+        "Mika Singh"
+      ],
+      "artist_str": "Anand Raj Anand, Mika Singh"
+    },
+    {
+      "name": "Faasle",
+      "artists": [
+        "Aditya Rikhari"
+      ],
+      "artist_str": "Aditya Rikhari"
+    },
+    {
+      "name": "Bekhayali (From \"Kabir Singh\")",
+      "artists": [
+        "Sachet Tandon",
+        "Sachet-Parampara"
+      ],
+      "artist_str": "Sachet Tandon, Sachet-Parampara"
+    },
+    {
+      "name": "Husn",
+      "artists": [
+        "Anuv Jain"
+      ],
+      "artist_str": "Anuv Jain"
+    },
+    {
+      "name": "Shikayat",
+      "artists": [
+        "AUR"
+      ],
+      "artist_str": "AUR"
+    },
+    {
+      "name": "Qissa",
+      "artists": [
+        "Mukul Sharma",
+        "Bhavdeep Romana"
+      ],
+      "artist_str": "Mukul Sharma, Bhavdeep Romana"
+    },
+    {
+      "name": "Prem Ki Naiyya",
+      "artists": [
+        "Pritam",
+        "Neeraj Shridhar",
+        "Suzanne D'Mello"
+      ],
+      "artist_str": "Pritam, Neeraj Shridhar, Suzanne D'Mello"
+    },
+    {
+      "name": "Nashe Si Chadh Gayi",
+      "artists": [
+        "Vishal-Shekhar",
+        "Arijit Singh",
+        "Caralisa Monteiro",
+        "Jaideep Sahni"
+      ],
+      "artist_str": "Vishal-Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni"
+    },
+    {
+      "name": "Kya Loge Tum",
+      "artists": [
+        "B Praak",
+        "Jaani"
+      ],
+      "artist_str": "B Praak, Jaani"
+    },
+    {
+      "name": "Rap Karte Hain",
+      "artists": [
+        "Karma"
+      ],
+      "artist_str": "Karma"
+    },
+    {
+      "name": "Khayaal",
+      "artists": [
+        "Talwiinder",
+        "NDS"
+      ],
+      "artist_str": "Talwiinder, NDS"
+    },
+    {
+      "name": "Tumhe Jo Maine Dekha",
+      "artists": [
+        "Abhijeet",
+        "Shreya Ghoshal"
+      ],
+      "artist_str": "Abhijeet, Shreya Ghoshal"
+    },
+    {
+      "name": "Chokra Jawaan",
+      "artists": [
+        "Amit Trivedi",
+        "Vishal Dadlani",
+        "Sunidhi Chauhan",
+        "Habib Faisal"
+      ],
+      "artist_str": "Amit Trivedi, Vishal Dadlani, Sunidhi Chauhan, Habib Faisal"
+    },
+    {
+      "name": "Le Le Mazaa Le",
+      "artists": [
+        "Suzanne",
+        "Sowmya Raoh",
+        "Hrishikesh Kamerkar",
+        "Nikita Nigam",
+        "Sajid-Wajid",
+        "Wajid",
+        "Shabir Ahmad",
+        "Carlyta Mouhini"
+      ],
+      "artist_str": "Suzanne, Sowmya Raoh, Hrishikesh Kamerkar, Nikita Nigam, Sajid-Wajid, Wajid, Shabir Ahmad, Carlyta Mouhini"
+    },
+    {
+      "name": "Wishes",
+      "artists": [
+        "Hasan Raheem",
+        "Umair",
+        "Talwiinder"
+      ],
+      "artist_str": "Hasan Raheem, Umair, Talwiinder"
+    },
+    {
+      "name": "Sawan Mein Lag Gayi Aag",
+      "artists": [
+        "Mika Singh",
+        "Payal Dev",
+        "Neha Kakkar",
+        "Badshah"
+      ],
+      "artist_str": "Mika Singh, Payal Dev, Neha Kakkar, Badshah"
+    },
+    {
+      "name": "52 Bars",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Bachke Bachke (feat. Yarah)",
+      "artists": [
+        "Karan Aujla",
+        "Ikky",
+        "Yarah"
+      ],
+      "artist_str": "Karan Aujla, Ikky, Yarah"
+    },
+    {
+      "name": "You",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Try Me",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Jee Ni Lagda",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Admirin' You (feat. Preston Pablo)",
+      "artists": [
+        "Karan Aujla",
+        "Ikky",
+        "Preston Pablo"
+      ],
+      "artist_str": "Karan Aujla, Ikky, Preston Pablo"
+    },
+    {
+      "name": "What...?",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Yaad",
+      "artists": [
+        "Karan Aujla",
+        "DIVINE",
+        "Jonita Gandhi"
+      ],
+      "artist_str": "Karan Aujla, DIVINE, Jonita Gandhi"
+    },
+    {
+      "name": "Straight Ballin'",
+      "artists": [
+        "Karan Aujla",
+        "DIVINE"
+      ],
+      "artist_str": "Karan Aujla, DIVINE"
+    },
+    {
+      "name": "Tareefan",
+      "artists": [
+        "Karan Aujla",
+        "DIVINE"
+      ],
+      "artist_str": "Karan Aujla, DIVINE"
+    },
+    {
+      "name": "100 Million",
+      "artists": [
+        "DIVINE",
+        "Karan Aujla"
+      ],
+      "artist_str": "DIVINE, Karan Aujla"
+    },
+    {
+      "name": "Don't Look 2",
+      "artists": [
+        "Karan Aujla",
+        "G-Funk"
+      ],
+      "artist_str": "Karan Aujla, G-Funk"
+    },
+    {
+      "name": "Goin' Off",
+      "artists": [
+        "Karan Aujla",
+        "Mxrci"
+      ],
+      "artist_str": "Karan Aujla, Mxrci"
+    },
+    {
+      "name": "God Damn",
+      "artists": [
+        "Badshah",
+        "Karan Aujla",
+        "Hiten"
+      ],
+      "artist_str": "Badshah, Karan Aujla, Hiten"
+    },
+    {
+      "name": "Winning Speech",
+      "artists": [
+        "Karan Aujla",
+        "Mxrci",
+        "Seshnolan"
+      ],
+      "artist_str": "Karan Aujla, Mxrci, Seshnolan"
+    },
+    {
+      "name": "Galat Karam",
+      "artists": [
+        "Panther",
+        "Raga"
+      ],
+      "artist_str": "Panther, Raga"
+    },
+    {
+      "name": "Nothing Lasts",
+      "artists": [
+        "Karan Aujla",
+        "DIVINE"
+      ],
+      "artist_str": "Karan Aujla, DIVINE"
+    },
+    {
+      "name": "Kammo Ji",
+      "artists": [
+        "Talwiinder"
+      ],
+      "artist_str": "Talwiinder"
+    },
+    {
+      "name": "Kamlee",
+      "artists": [
+        "SARRB",
+        "Starboy X"
+      ],
+      "artist_str": "SARRB, Starboy X"
+    },
+    {
+      "name": "8 ASLE",
+      "artists": [
+        "Sukha",
+        "Chani Nattan",
+        "Prodgk",
+        "Gurlez Akhtar"
+      ],
+      "artist_str": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar"
+    },
+    {
+      "name": "Lover",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "artist_str": "Diljit Dosanjh"
+    },
+    {
+      "name": "G.O.A.T.",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "artist_str": "Diljit Dosanjh"
+    },
+    {
+      "name": "Naina (From \"Crew\")",
+      "artists": [
+        "Diljit Dosanjh",
+        "Badshah",
+        "Raj Ranjodh"
+      ],
+      "artist_str": "Diljit Dosanjh, Badshah, Raj Ranjodh"
+    },
+    {
+      "name": "Lemonade",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "artist_str": "Diljit Dosanjh"
+    },
+    {
+      "name": "9:45",
+      "artists": [
+        "Prabh Singh",
+        "Jay Trak",
+        "Rooh Sandhu"
+      ],
+      "artist_str": "Prabh Singh, Jay Trak, Rooh Sandhu"
+    },
+    {
+      "name": "Magic | Coke Studio Bharat",
+      "artists": [
+        "Diljit Dosanjh",
+        "thiarajxtt"
+      ],
+      "artist_str": "Diljit Dosanjh, thiarajxtt"
+    },
+    {
+      "name": "Aam Jahe Munde",
+      "artists": [
+        "Parmish Verma",
+        "PARDHAAN",
+        "Desi Crew"
+      ],
+      "artist_str": "Parmish Verma, PARDHAAN, Desi Crew"
+    },
+    {
+      "name": "Mausam Hai Bada Qatil",
+      "artists": [
+        "Sonu Nigam"
+      ],
+      "artist_str": "Sonu Nigam"
+    },
+    {
+      "name": "Ik Kudi",
+      "artists": [
+        "wolf.cryman",
+        "Arpit Bala"
+      ],
+      "artist_str": "wolf.cryman, Arpit Bala"
+    },
+    {
+      "name": "Dont Mind",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus",
+        "Rap Demon"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus, Rap Demon"
+    },
+    {
+      "name": "Agency",
+      "artists": [
+        "Rap Demon",
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Rap Demon, Talha Anjum, Umair"
+    },
+    {
+      "name": "Why",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Aazma Le",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus",
+        "Bilal Ali"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus, Bilal Ali"
+    },
+    {
+      "name": "At The Top",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Melancholy",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Laga Reh",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Woh Banda Nai",
+      "artists": [
+        "Talhah Yunus",
+        "Talha Anjum",
+        "Young Stunners"
+      ],
+      "artist_str": "Talhah Yunus, Talha Anjum, Young Stunners"
+    },
+    {
+      "name": "Aaina",
+      "artists": [
+        "Young Galib"
+      ],
+      "artist_str": "Young Galib"
+    },
+    {
+      "name": "Tu Jo Mileya",
+      "artists": [
+        "Juss",
+        "MixSingh"
+      ],
+      "artist_str": "Juss, MixSingh"
+    },
+    {
+      "name": "Vibe",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "artist_str": "Diljit Dosanjh"
+    },
+    {
+      "name": "Jamnapaar",
+      "artists": [
+        "Raga"
+      ],
+      "artist_str": "Raga"
+    },
+    {
+      "name": "Angli Ghumai Jaata Ne",
+      "artists": [
+        "Biru Kataira",
+        "Rahul Puthi",
+        "Rinkal Yogi",
+        "Sweta Chahuan"
+      ],
+      "artist_str": "Biru Kataira, Rahul Puthi, Rinkal Yogi, Sweta Chahuan"
+    },
+    {
+      "name": "Happy Hour",
+      "artists": [
+        "Talha Anjum",
+        "Jokhay"
+      ],
+      "artist_str": "Talha Anjum, Jokhay"
+    },
+    {
+      "name": "Premika Ne Pyar Se",
+      "artists": [
+        "S. P. Balasubrahmanyam",
+        "Udit Narayan",
+        "S.P. Pallavi"
+      ],
+      "artist_str": "S. P. Balasubrahmanyam, Udit Narayan, S.P. Pallavi"
+    },
+    {
+      "name": "Red Alert",
+      "artists": [
+        "Rav Aulakh"
+      ],
+      "artist_str": "Rav Aulakh"
+    },
+    {
+      "name": "Can't See",
+      "artists": [
+        "Bikash Mahanty"
+      ],
+      "artist_str": "Bikash Mahanty"
+    },
+    {
+      "name": "GTA NCR",
+      "artists": [
+        "Raga",
+        "Wamp"
+      ],
+      "artist_str": "Raga, Wamp"
+    },
+    {
+      "name": "OOPS",
+      "artists": [
+        "King"
+      ],
+      "artist_str": "King"
+    },
+    {
+      "name": "Dil Nu",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon"
+      ],
+      "artist_str": "AP Dhillon, Shinda Kahlon"
+    },
+    {
+      "name": "Ve Haaniyaan",
+      "artists": [
+        "Danny",
+        "Avvy Sra",
+        "Sagar"
+      ],
+      "artist_str": "Danny, Avvy Sra, Sagar"
+    },
+    {
+      "name": "Brotherhood",
+      "artists": [
+        "Rav Aulakh"
+      ],
+      "artist_str": "Rav Aulakh"
+    },
+    {
+      "name": "Jee Karda",
+      "artists": [
+        "GKhan",
+        "Khan Saab",
+        "Mehar Vaani",
+        "Garry Sandhu"
+      ],
+      "artist_str": "GKhan, Khan Saab, Mehar Vaani, Garry Sandhu"
+    },
+    {
+      "name": "Jee Karr Daa",
+      "artists": [
+        "Harrdy Sandhu"
+      ],
+      "artist_str": "Harrdy Sandhu"
+    },
+    {
+      "name": "Kana Yaari",
+      "artists": [
+        "Kaifi Khalil",
+        "Eva B",
+        "Wahab Bugti"
+      ],
+      "artist_str": "Kaifi Khalil, Eva B, Wahab Bugti"
+    },
+    {
+      "name": "if you only knew",
+      "artists": [
+        "Alexander Stewart"
+      ],
+      "artist_str": "Alexander Stewart"
+    },
+    {
+      "name": "Chal Chaliye",
+      "artists": [
+        "Prince Rhides"
+      ],
+      "artist_str": "Prince Rhides"
+    },
+    {
+      "name": "TERE NAAL PYAAR MAAYE",
+      "artists": [
+        "Savi Kahlon",
+        "The Masterz"
+      ],
+      "artist_str": "Savi Kahlon, The Masterz"
+    },
+    {
+      "name": "99 Problems",
+      "artists": [
+        "Hugo"
+      ],
+      "artist_str": "Hugo"
+    },
+    {
+      "name": "Ek Raat",
+      "artists": [
+        "Vilen"
+      ],
+      "artist_str": "Vilen"
+    },
+    {
+      "name": "Guzarish",
+      "artists": [
+        "A.R. Rahman",
+        "Javed Ali",
+        "Prasoon Joshi"
+      ],
+      "artist_str": "A.R. Rahman, Javed Ali, Prasoon Joshi"
+    },
+    {
+      "name": "TERE NAAL PYAAR MAAYE",
+      "artists": [
+        "Savi Kahlon"
+      ],
+      "artist_str": "Savi Kahlon"
+    },
+    {
+      "name": "Gabhru",
+      "artists": [
+        "Jstar"
+      ],
+      "artist_str": "Jstar"
+    },
+    {
+      "name": "Asi Gabru Punjabi",
+      "artists": [
+        "Amrinder Gill"
+      ],
+      "artist_str": "Amrinder Gill"
+    },
+    {
+      "name": "Shor",
+      "artists": [
+        "Mooroo",
+        "Umair",
+        "Talha Anjum"
+      ],
+      "artist_str": "Mooroo, Umair, Talha Anjum"
+    },
+    {
+      "name": "HMM",
+      "artists": [
+        "KhullarG",
+        "Bluish Music"
+      ],
+      "artist_str": "KhullarG, Bluish Music"
+    },
+    {
+      "name": "I Wish",
+      "artists": [
+        "Arpit Dayal"
+      ],
+      "artist_str": "Arpit Dayal"
+    },
+    {
+      "name": "Robin Hood",
+      "artists": [
+        "Anson Seabra"
+      ],
+      "artist_str": "Anson Seabra"
+    },
+    {
+      "name": "Heeriye (feat. Arijit Singh)",
+      "artists": [
+        "Jasleen Royal",
+        "Arijit Singh",
+        "Dulquer Salmaan"
+      ],
+      "artist_str": "Jasleen Royal, Arijit Singh, Dulquer Salmaan"
+    },
+    {
+      "name": "Safety Off",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "You and Me",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "King Shit",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "KHADA HU AAJ BHI WAHI",
+      "artists": [
+        "Glamtown"
+      ],
+      "artist_str": "Glamtown"
+    },
+    {
+      "name": "Getup Jawani",
+      "artists": [
+        "Badshah",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Badshah, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Sunday",
+      "artists": [
+        "Aditya A",
+        "NAALAYAK"
+      ],
+      "artist_str": "Aditya A, NAALAYAK"
+    },
+    {
+      "name": "Aisi Jagah Se",
+      "artists": [
+        "Panther"
+      ],
+      "artist_str": "Panther"
+    },
+    {
+      "name": "Mein Bas Kehna Chahta Hoon",
+      "artists": [
+        "Bella"
+      ],
+      "artist_str": "Bella"
+    },
+    {
+      "name": "Space for Now",
+      "artists": [
+        "MC Headshot",
+        "Bella"
+      ],
+      "artist_str": "MC Headshot, Bella"
+    },
+    {
+      "name": "Thoda Aur",
+      "artists": [
+        "Arijit Singh",
+        "Palak Muchhal",
+        "Jeet Gannguli"
+      ],
+      "artist_str": "Arijit Singh, Palak Muchhal, Jeet Gannguli"
+    },
+    {
+      "name": "Mere Liye Tum Kaafi Ho (From \"Shubh Mangal Zyada Saavdhan\")",
+      "artists": [
+        "Ayushmann Khurrana",
+        "Tanishk-Vayu"
+      ],
+      "artist_str": "Ayushmann Khurrana, Tanishk-Vayu"
+    },
+    {
+      "name": "Masakali",
+      "artists": [
+        "Mohit Chauhan",
+        "A.R. Rahman",
+        "Prasoon Joshi"
+      ],
+      "artist_str": "Mohit Chauhan, A.R. Rahman, Prasoon Joshi"
+    },
+    {
+      "name": "Ek Ladki Bheegi Bhagi Si",
+      "artists": [
+        "Kishore Kumar",
+        "S. D. Burman"
+      ],
+      "artist_str": "Kishore Kumar, S. D. Burman"
+    },
+    {
+      "name": "Akela Safar",
+      "artists": [
+        "PNKJ"
+      ],
+      "artist_str": "PNKJ"
+    },
+    {
+      "name": "Paisa Hai Toh",
+      "artists": [
+        "Sachin-Jigar",
+        "Vishal Dadlani",
+        "Mellow D",
+        "Jigar Saraiya"
+      ],
+      "artist_str": "Sachin-Jigar, Vishal Dadlani, Mellow D, Jigar Saraiya"
+    },
+    {
+      "name": "Fugly",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "WuShang Clan",
+      "artists": [
+        "Dank Rishu",
+        "Foosie Gang",
+        "Adil"
+      ],
+      "artist_str": "Dank Rishu, Foosie Gang, Adil"
+    },
+    {
+      "name": "Maharani",
+      "artists": [
+        "Karun",
+        "Lambo Drive",
+        "Arpit Bala",
+        "GHILDIYAL"
+      ],
+      "artist_str": "Karun, Lambo Drive, Arpit Bala, GHILDIYAL"
+    },
+    {
+      "name": "Kheench Maari",
+      "artists": [
+        "Raga",
+        "DG IMMORTALS",
+        "Nitin Randhawa"
+      ],
+      "artist_str": "Raga, DG IMMORTALS, Nitin Randhawa"
+    },
+    {
+      "name": "Gaddi Moudan Ge",
+      "artists": [
+        "Mika Singh",
+        "Jaidev Kumar",
+        "Kumaar"
+      ],
+      "artist_str": "Mika Singh, Jaidev Kumar, Kumaar"
+    },
+    {
+      "name": "Expert Jatt",
+      "artists": [
+        "Nawab"
+      ],
+      "artist_str": "Nawab"
+    },
+    {
+      "name": "Arjan Vailly (From \"ANIMAL\")",
+      "artists": [
+        "Manan Bhardwaj",
+        "Bhupinder Babbal"
+      ],
+      "artist_str": "Manan Bhardwaj, Bhupinder Babbal"
+    },
+    {
+      "name": "Hass Hass",
+      "artists": [
+        "Diljit Dosanjh",
+        "Sia",
+        "Greg Kurstin"
+      ],
+      "artist_str": "Diljit Dosanjh, Sia, Greg Kurstin"
+    },
+    {
+      "name": "Lalkara",
+      "artists": [
+        "Diljit Dosanjh",
+        "Intense",
+        "Sultaan"
+      ],
+      "artist_str": "Diljit Dosanjh, Intense, Sultaan"
+    },
+    {
+      "name": "Aur Kon Hoga ?",
+      "artists": [
+        "Manikk"
+      ],
+      "artist_str": "Manikk"
+    },
+    {
+      "name": "Messiah",
+      "artists": [
+        "tricksingh"
+      ],
+      "artist_str": "tricksingh"
+    },
+    {
+      "name": "Teri Yaad",
+      "artists": [
+        "Aditya Rikhari"
+      ],
+      "artist_str": "Aditya Rikhari"
+    },
+    {
+      "name": "Mileya Ni",
+      "artists": [
+        "Paradox"
+      ],
+      "artist_str": "Paradox"
+    },
+    {
+      "name": "Chaand",
+      "artists": [
+        "Brave Wrld"
+      ],
+      "artist_str": "Brave Wrld"
+    },
+    {
+      "name": "Kina Chir",
+      "artists": [
+        "The PropheC"
+      ],
+      "artist_str": "The PropheC"
+    },
+    {
+      "name": "Choo Lo",
+      "artists": [
+        "The Local Train"
+      ],
+      "artist_str": "The Local Train"
+    },
+    {
+      "name": "Dhundhala",
+      "artists": [
+        "Yashraj",
+        "Dropped Out",
+        "Talwiinder"
+      ],
+      "artist_str": "Yashraj, Dropped Out, Talwiinder"
+    },
+    {
+      "name": "Chaska",
+      "artists": [
+        "Raja Baath",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Raja Baath, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Softly",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Time Traveller",
+      "artists": [
+        "M.I.A."
+      ],
+      "artist_str": "M.I.A."
+    },
+    {
+      "name": "Laado",
+      "artists": [
+        "MC SQUARE",
+        "Hiten"
+      ],
+      "artist_str": "MC SQUARE, Hiten"
+    },
+    {
+      "name": "Tu hai kahan",
+      "artists": [
+        "AUR"
+      ],
+      "artist_str": "AUR"
+    },
+    {
+      "name": "Kheech Meri Photo",
+      "artists": [
+        "Himesh Reshammiya",
+        "Neeti Mohan",
+        "AKASA",
+        "Darshan Raval"
+      ],
+      "artist_str": "Himesh Reshammiya, Neeti Mohan, AKASA, Darshan Raval"
+    },
+    {
+      "name": "Kaley Sheshe",
+      "artists": [
+        "Addy Nagar",
+        "Aniket Jain"
+      ],
+      "artist_str": "Addy Nagar, Aniket Jain"
+    },
+    {
+      "name": "Khalasi | Coke Studio Bharat",
+      "artists": [
+        "Aditya Gadhvi",
+        "Achint"
+      ],
+      "artist_str": "Aditya Gadhvi, Achint"
+    },
+    {
+      "name": "OG",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Bye",
+      "artists": [
+        "Aditya Bhardwaj"
+      ],
+      "artist_str": "Aditya Bhardwaj"
+    },
+    {
+      "name": "Without Me",
+      "artists": [
+        "Eminem"
+      ],
+      "artist_str": "Eminem"
+    },
+    {
+      "name": "Forgive Me",
+      "artists": [
+        "MC INSANE"
+      ],
+      "artist_str": "MC INSANE"
+    },
+    {
+      "name": "I Wish",
+      "artists": [
+        "J Trix",
+        "Subspace"
+      ],
+      "artist_str": "J Trix, Subspace"
+    },
+    {
+      "name": "Some Of Us",
+      "artists": [
+        "KR$NA",
+        "AR Paisley",
+        "Krishna Kaul",
+        "Amarit Rehal",
+        "JPBEATZ"
+      ],
+      "artist_str": "KR$NA, AR Paisley, Krishna Kaul, Amarit Rehal, JPBEATZ"
+    },
+    {
+      "name": "4AM in Karachi",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Death Wish",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Downers At Dusk",
+      "artists": [
+        "Talha Anjum",
+        "Umair"
+      ],
+      "artist_str": "Talha Anjum, Umair"
+    },
+    {
+      "name": "Way Too Easy",
+      "artists": [
+        "Brodha V"
+      ],
+      "artist_str": "Brodha V"
+    },
+    {
+      "name": "Aigiri Nandini",
+      "artists": [
+        "Brodha V"
+      ],
+      "artist_str": "Brodha V"
+    },
+    {
+      "name": "Dior",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "CROWN",
+      "artists": [
+        "King",
+        "Natania"
+      ],
+      "artist_str": "King, Natania"
+    },
+    {
+      "name": "Haryana Hood",
+      "artists": [
+        "Irshad Khan"
+      ],
+      "artist_str": "Irshad Khan"
+    },
+    {
+      "name": "Silicone",
+      "artists": [
+        "Prem Dhillon",
+        "Prodgk"
+      ],
+      "artist_str": "Prem Dhillon, Prodgk"
+    },
+    {
+      "name": "Sleepless",
+      "artists": [
+        "AP Dhillon"
+      ],
+      "artist_str": "AP Dhillon"
+    },
+    {
+      "name": "Check It Out",
+      "artists": [
+        "Parmish Verma",
+        "Paradox"
+      ],
+      "artist_str": "Parmish Verma, Paradox"
+    },
+    {
+      "name": "With You",
+      "artists": [
+        "AP Dhillon"
+      ],
+      "artist_str": "AP Dhillon"
+    },
+    {
+      "name": "California Love",
+      "artists": [
+        "Cheema Y",
+        "Gur Sidhu"
+      ],
+      "artist_str": "Cheema Y, Gur Sidhu"
+    },
+    {
+      "name": "Cheques",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "One Love",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Mi Amor",
+      "artists": [
+        "Sharn",
+        "The Paul"
+      ],
+      "artist_str": "Sharn, The Paul"
+    },
+    {
+      "name": "Kaha Tak",
+      "artists": [
+        "KR$NA",
+        "Jokhay",
+        "Umair"
+      ],
+      "artist_str": "KR$NA, Jokhay, Umair"
+    },
+    {
+      "name": "Ram Ram",
+      "artists": [
+        "MC SQUARE"
+      ],
+      "artist_str": "MC SQUARE"
+    },
+    {
+      "name": "TRAP PRAA",
+      "artists": [
+        "Raftaar",
+        "Prabh Deep"
+      ],
+      "artist_str": "Raftaar, Prabh Deep"
+    },
+    {
+      "name": "Chorni",
+      "artists": [
+        "DIVINE",
+        "Sidhu Moose Wala"
+      ],
+      "artist_str": "DIVINE, Sidhu Moose Wala"
+    },
+    {
+      "name": "KALESHI CHORI",
+      "artists": [
+        "DG IMMORTALS",
+        "Raga",
+        "Harjas Harjaayi",
+        "VIRTUAL_AF",
+        "DARK HORSE"
+      ],
+      "artist_str": "DG IMMORTALS, Raga, Harjas Harjaayi, VIRTUAL_AF, DARK HORSE"
+    },
+    {
+      "name": "Elevated",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Wo Noor",
+      "artists": [
+        "AP Dhillon"
+      ],
+      "artist_str": "AP Dhillon"
+    },
+    {
+      "name": "Showstopper",
+      "artists": [
+        "JERRY"
+      ],
+      "artist_str": "JERRY"
+    },
+    {
+      "name": "Rank 1",
+      "artists": [
+        "Jordan Sandhu",
+        "Desi Crew"
+      ],
+      "artist_str": "Jordan Sandhu, Desi Crew"
+    },
+    {
+      "name": "Take It Easy",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "name": "Taur",
+      "artists": [
+        "Dilpreet Dhillon",
+        "Desi Crew"
+      ],
+      "artist_str": "Dilpreet Dhillon, Desi Crew"
+    },
+    {
+      "name": "Ava",
+      "artists": [
+        "Famy"
+      ],
+      "artist_str": "Famy"
+    },
+    {
+      "name": "Your Eyes",
+      "artists": [
+        "Barney Sku",
+        "Taqiya Zaman"
+      ],
+      "artist_str": "Barney Sku, Taqiya Zaman"
+    },
+    {
+      "name": "W o r t h I t (slowed reverb)",
+      "artists": [
+        "FiloChill"
+      ],
+      "artist_str": "FiloChill"
+    },
+    {
+      "name": "White Brown Black",
+      "artists": [
+        "Avvy Sra",
+        "Karan Aujla",
+        "Jaani"
+      ],
+      "artist_str": "Avvy Sra, Karan Aujla, Jaani"
+    },
+    {
+      "name": "London Bridge is Falling Down",
+      "artists": [
+        "GoatStorm"
+      ],
+      "artist_str": "GoatStorm"
+    },
+    {
+      "name": "3am in Hell",
+      "artists": [
+        "Lucifer was innocent"
+      ],
+      "artist_str": "Lucifer was innocent"
+    },
+    {
+      "name": "Obsessed",
+      "artists": [
+        "Riar Saab",
+        "Abhijay Sharma"
+      ],
+      "artist_str": "Riar Saab, Abhijay Sharma"
+    },
+    {
+      "name": "Shape of You",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "artist_str": "Ed Sheeran"
+    },
+    {
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artists": [
+        "Stephen Sanchez",
+        "Em Beihold"
+      ],
+      "artist_str": "Stephen Sanchez, Em Beihold"
+    },
+    {
+      "name": "Mujeriego",
+      "artists": [
+        "Ryan Castro"
+      ],
+      "artist_str": "Ryan Castro"
+    },
+    {
+      "name": "Bachpan",
+      "artists": [
+        "REDOX"
+      ],
+      "artist_str": "REDOX"
+    },
+    {
+      "name": "3:59 AM",
+      "artists": [
+        "DIVINE"
+      ],
+      "artist_str": "DIVINE"
+    },
+    {
+      "name": "My Stupid Heart - Kids Version",
+      "artists": [
+        "Walk off the Earth",
+        "Luminati Suns"
+      ],
+      "artist_str": "Walk off the Earth, Luminati Suns"
+    },
+    {
+      "name": "The Nights",
+      "artists": [
+        "Avicii"
+      ],
+      "artist_str": "Avicii"
+    },
+    {
+      "name": "The Flow",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Ice",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Still Rollin",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Chaand Baaliyan",
+      "artists": [
+        "Aditya A"
+      ],
+      "artist_str": "Aditya A"
+    },
+    {
+      "name": "No Reason",
+      "artists": [
+        "Parmish Verma",
+        "GD 47"
+      ],
+      "artist_str": "Parmish Verma, GD 47"
+    },
+    {
+      "name": "I Guess",
+      "artists": [
+        "KR$NA",
+        "Kabu Beats"
+      ],
+      "artist_str": "KR$NA, Kabu Beats"
+    },
+    {
+      "name": "Khayaal",
+      "artists": [
+        "J Trix",
+        "Subspace"
+      ],
+      "artist_str": "J Trix, Subspace"
+    },
+    {
+      "name": "Busy Getting Paid",
+      "artists": [
+        "Ammy Virk",
+        "DIVINE"
+      ],
+      "artist_str": "Ammy Virk, DIVINE"
+    },
+    {
+      "name": "P.O.V (Point of View)",
+      "artists": [
+        "Karan Aujla",
+        "Yeah Proof"
+      ],
+      "artist_str": "Karan Aujla, Yeah Proof"
+    },
+    {
+      "name": "Gangsta's Paradise",
+      "artists": [
+        "Coolio",
+        "L.V."
+      ],
+      "artist_str": "Coolio, L.V."
+    },
+    {
+      "name": "All Black",
+      "artists": [
+        "Raftaar",
+        "Sukh-E Muzical Doctorz",
+        "Jaani"
+      ],
+      "artist_str": "Raftaar, Sukh-E Muzical Doctorz, Jaani"
+    },
+    {
+      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
+      "artists": [
+        "Alka Yagnik",
+        "Arijit Singh"
+      ],
+      "artist_str": "Alka Yagnik, Arijit Singh"
+    },
+    {
+      "name": "Such a Whore",
+      "artists": [
+        "JVLA"
+      ],
+      "artist_str": "JVLA"
+    },
+    {
+      "name": "Let Me Love You",
+      "artists": [
+        "DJ Snake",
+        "Justin Bieber"
+      ],
+      "artist_str": "DJ Snake, Justin Bieber"
+    },
+    {
+      "name": "Closer",
+      "artists": [
+        "The Chainsmokers",
+        "Halsey"
+      ],
+      "artist_str": "The Chainsmokers, Halsey"
+    },
+    {
+      "name": "love nwantiti (ah ah ah)",
+      "artists": [
+        "CKay"
+      ],
+      "artist_str": "CKay"
+    },
+    {
+      "name": "Safar (Lo-Fi)",
+      "artists": [
+        "Juss",
+        "MixSingh"
+      ],
+      "artist_str": "Juss, MixSingh"
+    },
+    {
+      "name": "Ik Tera",
+      "artists": [
+        "Maninder Buttar"
+      ],
+      "artist_str": "Maninder Buttar"
+    },
+    {
+      "name": "Leke Pehla Pehla Pyaar - Trap Mix",
+      "artists": [
+        "Farooq Got Audio",
+        "Shamshad Begum",
+        "Asha Bhosle",
+        "Mohammed Rafi"
+      ],
+      "artist_str": "Farooq Got Audio, Shamshad Begum, Asha Bhosle, Mohammed Rafi"
+    },
+    {
+      "name": "No Lie",
+      "artists": [
+        "Sean Paul",
+        "Dua Lipa"
+      ],
+      "artist_str": "Sean Paul, Dua Lipa"
+    },
+    {
+      "name": "Roop Tera Mastana",
+      "artists": [
+        "Sanam",
+        "S. D. Burman"
+      ],
+      "artist_str": "Sanam, S. D. Burman"
+    },
+    {
+      "name": "Baaraat",
+      "artists": [
+        "Ritviz",
+        "Nucleya"
+      ],
+      "artist_str": "Ritviz, Nucleya"
+    },
+    {
+      "name": "Mehmaan",
+      "artists": [
+        "Sickflip",
+        "Mismatched - Cast",
+        "Raitila Rajasthan"
+      ],
+      "artist_str": "Sickflip, Mismatched - Cast, Raitila Rajasthan"
+    },
+    {
+      "name": "everything sucks",
+      "artists": [
+        "vaultboy"
+      ],
+      "artist_str": "vaultboy"
+    },
+    {
+      "name": "CRY",
+      "artists": [
+        "Parker Jack"
+      ],
+      "artist_str": "Parker Jack"
+    },
+    {
+      "name": "The Real Slim Shady",
+      "artists": [
+        "Eminem"
+      ],
+      "artist_str": "Eminem"
+    },
+    {
+      "name": "Mockingbird",
+      "artists": [
+        "Eminem"
+      ],
+      "artist_str": "Eminem"
+    },
+    {
+      "name": "Putt Jatt Da",
+      "artists": [
+        "Rajvir Jawanda"
+      ],
+      "artist_str": "Rajvir Jawanda"
+    },
+    {
+      "name": "Yalgaar",
+      "artists": [
+        "Ajey Nagar (CarryMinati)",
+        "Wily Frenzy"
+      ],
+      "artist_str": "Ajey Nagar (CarryMinati), Wily Frenzy"
+    },
+    {
+      "name": "Fed Up",
+      "artists": [
+        "Ghostemane"
+      ],
+      "artist_str": "Ghostemane"
+    },
+    {
+      "name": "All The Way Up (feat. Infared)",
+      "artists": [
+        "Fat Joe",
+        "Remy Ma",
+        "French Montana",
+        "InfaRed"
+      ],
+      "artist_str": "Fat Joe, Remy Ma, French Montana, InfaRed"
+    },
+    {
+      "name": "Peaky Blinder",
+      "artists": [
+        "Otnicka",
+        "Duke Luke"
+      ],
+      "artist_str": "Otnicka, Duke Luke"
+    },
+    {
+      "name": "Bad Boy (feat. Luana Kiara)",
+      "artists": [
+        "Raaban",
+        "Tungevaag",
+        "Luana Kiara"
+      ],
+      "artist_str": "Raaban, Tungevaag, Luana Kiara"
+    },
+    {
+      "name": "Ek Din Pyaar - Tadipaar",
+      "artists": [
+        "MC STAN"
+      ],
+      "artist_str": "MC STAN"
+    },
+    {
+      "name": "Levitating X Woh Ladki Jo",
+      "artists": [
+        "Hani Yadav",
+        "Mk Mehra"
+      ],
+      "artist_str": "Hani Yadav, Mk Mehra"
+    },
+    {
+      "name": "Bhaj Man Radhe Govinda",
+      "artists": [
+        "Dev Next Level",
+        "Acyuta Gopi"
+      ],
+      "artist_str": "Dev Next Level, Acyuta Gopi"
+    },
+    {
+      "name": "Pagol - Slowed & Reverb",
+      "artists": [
+        "Dalip Shekhawat"
+      ],
+      "artist_str": "Dalip Shekhawat"
+    },
+    {
+      "name": "Shaitan Ka Saala (From \"Housefull 4\")",
+      "artists": [
+        "Sohail Sen",
+        "Vishal Dadlani"
+      ],
+      "artist_str": "Sohail Sen, Vishal Dadlani"
+    },
+    {
+      "name": "Main Man",
+      "artists": [
+        "The Vishesh"
+      ],
+      "artist_str": "The Vishesh"
+    },
+    {
+      "name": "the remedy for a broken heart (why am I so in love)",
+      "artists": [
+        "XXXTENTACION"
+      ],
+      "artist_str": "XXXTENTACION"
+    },
+    {
+      "name": "SAD!",
+      "artists": [
+        "XXXTENTACION"
+      ],
+      "artist_str": "XXXTENTACION"
+    },
+    {
+      "name": "Jocelyn Flores",
+      "artists": [
+        "XXXTENTACION"
+      ],
+      "artist_str": "XXXTENTACION"
+    },
+    {
+      "name": "Hope",
+      "artists": [
+        "XXXTENTACION"
+      ],
+      "artist_str": "XXXTENTACION"
+    },
+    {
+      "name": "Patakha Guddi",
+      "artists": [
+        "Sultana",
+        "Jyoti Nooran"
+      ],
+      "artist_str": "Sultana, Jyoti Nooran"
+    },
+    {
+      "name": "Patakha Guddi - Club Mix",
+      "artists": [
+        "Furkan Kantarcı"
+      ],
+      "artist_str": "Furkan Kantarcı"
+    },
+    {
+      "name": "Yeh Raaten Yeh Mausam",
+      "artists": [
+        "Sanam",
+        "Simran Sehgal"
+      ],
+      "artist_str": "Sanam, Simran Sehgal"
+    },
+    {
+      "name": "Ektarfa",
+      "artists": [
+        "King"
+      ],
+      "artist_str": "King"
+    },
+    {
+      "name": "Maybe My Soulmate Died",
+      "artists": [
+        "iamnotshane"
+      ],
+      "artist_str": "iamnotshane"
+    },
+    {
+      "name": "Yaarr Ni Milyaa",
+      "artists": [
+        "Harrdy Sandhu",
+        "B Praak",
+        "Jaani"
+      ],
+      "artist_str": "Harrdy Sandhu, B Praak, Jaani"
+    },
+    {
+      "name": "dancing with your ghost",
+      "artists": [
+        "Josh Rabenold"
+      ],
+      "artist_str": "Josh Rabenold"
+    },
+    {
+      "name": "Kabhi Kabhi Aditi",
+      "artists": [
+        "Rashid Ali"
+      ],
+      "artist_str": "Rashid Ali"
+    },
+    {
+      "name": "Goliya",
+      "artists": [
+        "Diljit Dosanjh",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Diljit Dosanjh, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Mere Mehboob Qayamat Hogi - Lofi",
+      "artists": [
+        "Sachin Gupta",
+        "Sanam"
+      ],
+      "artist_str": "Sachin Gupta, Sanam"
+    },
+    {
+      "name": "Kiya Kiya",
+      "artists": [
+        "Anand Raj Anand",
+        "Shweta Pandit"
+      ],
+      "artist_str": "Anand Raj Anand, Shweta Pandit"
+    },
+    {
+      "name": "Dama Dam Mast Qalandar",
+      "artists": [
+        "Wadali Brothers"
+      ],
+      "artist_str": "Wadali Brothers"
+    },
+    {
+      "name": "Tere Ishq Mein Naachenge - Cover Version",
+      "artists": [
+        "Abhishek Raina",
+        "Anurag Ranga"
+      ],
+      "artist_str": "Abhishek Raina, Anurag Ranga"
+    },
+    {
+      "name": "Aaja Sanam - Trap Mix",
+      "artists": [
+        "Lata Mangeshkar",
+        "Manna Dey",
+        "Provat Tonoy"
+      ],
+      "artist_str": "Lata Mangeshkar, Manna Dey, Provat Tonoy"
+    },
+    {
+      "name": "SNAP",
+      "artists": [
+        "Rosa Linn"
+      ],
+      "artist_str": "Rosa Linn"
+    },
+    {
+      "name": "Baarishein",
+      "artists": [
+        "Anuv Jain"
+      ],
+      "artist_str": "Anuv Jain"
+    },
+    {
+      "name": "DARKSIDE",
+      "artists": [
+        "Neoni"
+      ],
+      "artist_str": "Neoni"
+    },
+    {
+      "name": "Spirits",
+      "artists": [
+        "The Strumbellas"
+      ],
+      "artist_str": "The Strumbellas"
+    },
+    {
+      "name": "Bewafa Lofi",
+      "artists": [
+        "Gopi Saini"
+      ],
+      "artist_str": "Gopi Saini"
+    },
+    {
+      "name": "Childhood - Remix",
+      "artists": [
+        "Mvd Funk"
+      ],
+      "artist_str": "Mvd Funk"
+    },
+    {
+      "name": "Humein Tumse Pyar Kitna",
+      "artists": [
+        "Sanam",
+        "R. D. Burman"
+      ],
+      "artist_str": "Sanam, R. D. Burman"
+    },
+    {
+      "name": "Nazz VS Srushti",
+      "artists": [
+        "Nazz",
+        "Srushti Tawade"
+      ],
+      "artist_str": "Nazz, Srushti Tawade"
+    },
+    {
+      "name": "all the kids are depressed",
+      "artists": [
+        "Jeremy Zucker"
+      ],
+      "artist_str": "Jeremy Zucker"
+    },
+    {
+      "name": "KALESHI CHORI",
+      "artists": [
+        "DG IMMORTALS",
+        "RAGA",
+        "Harjas"
+      ],
+      "artist_str": "DG IMMORTALS, RAGA, Harjas"
+    },
+    {
+      "name": "Nobody Knows",
+      "artists": [
+        "EcoIntheSpo"
+      ],
+      "artist_str": "EcoIntheSpo"
+    },
+    {
+      "name": "I Think I'm Losing My Mind",
+      "artists": [
+        "Yung Endo"
+      ],
+      "artist_str": "Yung Endo"
+    },
+    {
+      "name": "Mila Toh Marega",
+      "artists": [
+        "Ravindra Upadhyay",
+        "Vishvesh Parmar",
+        "Sandeep Patil"
+      ],
+      "artist_str": "Ravindra Upadhyay, Vishvesh Parmar, Sandeep Patil"
+    },
+    {
+      "name": "Challa",
+      "artists": [
+        "A.R. Rahman",
+        "Rabbi",
+        "Gulzar"
+      ],
+      "artist_str": "A.R. Rahman, Rabbi, Gulzar"
+    },
+    {
+      "name": "One Day",
+      "artists": [
+        "GVL KHAN",
+        "dotxb"
+      ],
+      "artist_str": "GVL KHAN, dotxb"
+    },
+    {
+      "name": "Roll Up",
+      "artists": [
+        "KR$NA",
+        "Josh Petruccio",
+        "Badshah"
+      ],
+      "artist_str": "KR$NA, Josh Petruccio, Badshah"
+    },
+    {
+      "name": "BAS KAR",
+      "artists": [
+        "GVL KHAN"
+      ],
+      "artist_str": "GVL KHAN"
+    },
+    {
+      "name": "Bahana",
+      "artists": [
+        "Akull"
+      ],
+      "artist_str": "Akull"
+    },
+    {
+      "name": "Top Boy",
+      "artists": [
+        "AP Dhillon"
+      ],
+      "artist_str": "AP Dhillon"
+    },
+    {
+      "name": "Panda",
+      "artists": [
+        "Desiigner"
+      ],
+      "artist_str": "Desiigner"
+    },
+    {
+      "name": "Offshore",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Ykwim",
+      "artists": [
+        "Karan Aujla",
+        "KR$NA",
+        "Mehar Vaani"
+      ],
+      "artist_str": "Karan Aujla, KR$NA, Mehar Vaani"
+    },
+    {
+      "name": "Satisfya",
+      "artists": [
+        "Imran Khan"
+      ],
+      "artist_str": "Imran Khan"
+    },
+    {
+      "name": "Amplifier",
+      "artists": [
+        "Imran Khan"
+      ],
+      "artist_str": "Imran Khan"
+    },
+    {
+      "name": "Woofer (feat. Snoop Dogg, Zora Randhawa & Nargis Fakhri)",
+      "artists": [
+        "Dr Zeus",
+        "Snoop Dogg",
+        "Zora Randhawa",
+        "Nargis Fakhri"
+      ],
+      "artist_str": "Dr Zeus, Snoop Dogg, Zora Randhawa, Nargis Fakhri"
+    },
+    {
+      "name": "DESIRES",
+      "artists": [
+        "AP Dhillon",
+        "Gurinder Gill"
+      ],
+      "artist_str": "AP Dhillon, Gurinder Gill"
+    },
+    {
+      "name": "Insane",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon",
+        "Gurinder Gill",
+        "Gminxr"
+      ],
+      "artist_str": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+    },
+    {
+      "name": "Nasha (Equals Sessions)",
+      "artists": [
+        "Faridkot",
+        "Amar Jalal"
+      ],
+      "artist_str": "Faridkot, Amar Jalal"
+    },
+    {
+      "name": "Tutak Tutak Tutiya",
+      "artists": [
+        "Malkit Singh",
+        "Kanika Kapoor",
+        "Sonu Sood",
+        "Raaj Aashoo",
+        "Shabbir Ahmed"
+      ],
+      "artist_str": "Malkit Singh, Kanika Kapoor, Sonu Sood, Raaj Aashoo, Shabbir Ahmed"
+    },
+    {
+      "name": "Run",
+      "artists": [
+        "OneRepublic"
+      ],
+      "artist_str": "OneRepublic"
+    },
+    {
+      "name": "Bad Liar",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "artist_str": "Imagine Dragons"
+    },
+    {
+      "name": "Somebody That I Used To Know",
+      "artists": [
+        "Gotye",
+        "Kimbra"
+      ],
+      "artist_str": "Gotye, Kimbra"
+    },
+    {
+      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "artists": [
+        "ZAYN",
+        "Sia"
+      ],
+      "artist_str": "ZAYN, Sia"
+    },
+    {
+      "name": "Old Town Road",
+      "artists": [
+        "Lil Nas X"
+      ],
+      "artist_str": "Lil Nas X"
+    },
+    {
+      "name": "Levitating",
+      "artists": [
+        "Dua Lipa"
+      ],
+      "artist_str": "Dua Lipa"
+    },
+    {
+      "name": "Intentions (feat. Quavo)",
+      "artists": [
+        "Justin Bieber",
+        "Quavo"
+      ],
+      "artist_str": "Justin Bieber, Quavo"
+    },
+    {
+      "name": "Me, Myself & I",
+      "artists": [
+        "G-Eazy",
+        "Bebe Rexha"
+      ],
+      "artist_str": "G-Eazy, Bebe Rexha"
+    },
+    {
+      "name": "Tamma Tamma Again",
+      "artists": [
+        "Bappi Lahiri",
+        "Anuradha Paudwal",
+        "Badshah",
+        "Tanishk Bagchi",
+        "Indeevar"
+      ],
+      "artist_str": "Bappi Lahiri, Anuradha Paudwal, Badshah, Tanishk Bagchi, Indeevar"
+    },
+    {
+      "name": "Safar - Slow+Reverb",
+      "artists": [
+        "Sourav Verma"
+      ],
+      "artist_str": "Sourav Verma"
+    },
+    {
+      "name": "Bhaag D.K. Bose, Aandhi Aayi",
+      "artists": [
+        "Ram Sampath"
+      ],
+      "artist_str": "Ram Sampath"
+    },
+    {
+      "name": "Shubhaarambh - From \"Kai Po Che\"",
+      "artists": [
+        "Amit Trivedi",
+        "Shruti Pathak",
+        "Divya Kumar"
+      ],
+      "artist_str": "Amit Trivedi, Shruti Pathak, Divya Kumar"
+    },
+    {
+      "name": "Hookah Bar",
+      "artists": [
+        "Himesh Reshammiya",
+        "Vineet Singh",
+        "Aaman Trikha"
+      ],
+      "artist_str": "Himesh Reshammiya, Vineet Singh, Aaman Trikha"
+    },
+    {
+      "name": "Make Some Noise For The Desi Boyz (Remix)",
+      "artists": [
+        "Pritam",
+        "KK",
+        "Bob",
+        "Kiran Kamath"
+      ],
+      "artist_str": "Pritam, KK, Bob, Kiran Kamath"
+    },
+    {
+      "name": "Levitating X Woh Ladki Jo",
+      "artists": [
+        "Vivek Creates"
+      ],
+      "artist_str": "Vivek Creates"
+    },
+    {
+      "name": "Jaadugar",
+      "artists": [
+        "Paradox"
+      ],
+      "artist_str": "Paradox"
+    },
+    {
+      "name": "Peele Peele o more raja - Remix",
+      "artists": [
+        "Harish Jutla"
+      ],
+      "artist_str": "Harish Jutla"
+    },
+    {
+      "name": "Daru Badnaam",
+      "artists": [
+        "Param Singh",
+        "Kamal Kahlon",
+        "Pratik Studio"
+      ],
+      "artist_str": "Param Singh, Kamal Kahlon, Pratik Studio"
+    },
+    {
+      "name": "3 Peg",
+      "artists": [
+        "Sharry Mann",
+        "Raviraj"
+      ],
+      "artist_str": "Sharry Mann, Raviraj"
+    },
+    {
+      "name": "Apni To Jaise Taise",
+      "artists": [
+        "Kishore Kumar",
+        "Kalyanji-Anandji"
+      ],
+      "artist_str": "Kishore Kumar, Kalyanji-Anandji"
+    },
+    {
+      "name": "Firecracker",
+      "artists": [
+        "Vishal-Shekhar",
+        "Vishal Dadlani",
+        "Shekhar Ravjiani",
+        "Kumaar",
+        "Vayu"
+      ],
+      "artist_str": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Kumaar, Vayu"
+    },
+    {
+      "name": "Akhiyaan",
+      "artists": [
+        "Mitraz"
+      ],
+      "artist_str": "Mitraz"
+    },
+    {
+      "name": "Duppata (From \"Jugjugg Jeeyo\")",
+      "artists": [
+        "Diesby",
+        "Chapter6",
+        "Shreya Sharma",
+        "Atul Sharma",
+        "Shamsher Sandhu"
+      ],
+      "artist_str": "Diesby, Chapter6, Shreya Sharma, Atul Sharma, Shamsher Sandhu"
+    },
+    {
+      "name": "Bharat Ka Baccha Jai Shree Ram Bolega",
+      "artists": [
+        "Dj Omkar ORB",
+        "DJ SANKET SJ"
+      ],
+      "artist_str": "Dj Omkar ORB, DJ SANKET SJ"
+    },
+    {
+      "name": "Saat Samundar Paar Remix Vishwatma 91",
+      "artists": [
+        "Sadhana Sargam"
+      ],
+      "artist_str": "Sadhana Sargam"
+    },
+    {
+      "name": "Laare",
+      "artists": [
+        "Maninder Buttar",
+        "Jaani"
+      ],
+      "artist_str": "Maninder Buttar, Jaani"
+    },
+    {
+      "name": "Hornn Blow",
+      "artists": [
+        "Harrdy Sandhu",
+        "B Praak"
+      ],
+      "artist_str": "Harrdy Sandhu, B Praak"
+    },
+    {
+      "name": "Why Not Meri Jaan",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Phir Milenge",
+      "artists": [
+        "Faisal Kapadia",
+        "Young Stunners"
+      ],
+      "artist_str": "Faisal Kapadia, Young Stunners"
+    },
+    {
+      "name": "Gumaan",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Lungi Dance (From \"Chennai Express\")",
+      "artists": [
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Khalibali",
+      "artists": [
+        "Shivam Pathak",
+        "Shail Hada",
+        "A.M. Turaz",
+        "Sanjay Leela Bhansali"
+      ],
+      "artist_str": "Shivam Pathak, Shail Hada, A.M. Turaz, Sanjay Leela Bhansali"
+    },
+    {
+      "name": "Her",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Maan Meri Jaan",
+      "artists": [
+        "King"
+      ],
+      "artist_str": "King"
+    },
+    {
+      "name": "Yaad Na Aaye",
+      "artists": [
+        "Akull"
+      ],
+      "artist_str": "Akull"
+    },
+    {
+      "name": "Somebody That I Used To Know - 4FRNT Remix",
+      "artists": [
+        "Gotye",
+        "Kimbra",
+        "4FRNT"
+      ],
+      "artist_str": "Gotye, Kimbra, 4FRNT"
+    },
+    {
+      "name": "Ye Rut - Lofi Remix",
+      "artists": [
+        "Md Abidur Rahaman",
+        "DJ Ponkoj"
+      ],
+      "artist_str": "Md Abidur Rahaman, DJ Ponkoj"
+    },
+    {
+      "name": "Bewafa",
+      "artists": [
+        "Imran Khan"
+      ],
+      "artist_str": "Imran Khan"
+    },
+    {
+      "name": "Besabriyaan",
+      "artists": [
+        "Armaan Malik",
+        "Amaal Mallik",
+        "Manoj Muntashir"
+      ],
+      "artist_str": "Armaan Malik, Amaal Mallik, Manoj Muntashir"
+    },
+    {
+      "name": "Ami Tomake",
+      "artists": [
+        "MC Headshot"
+      ],
+      "artist_str": "MC Headshot"
+    },
+    {
+      "name": "TERE TE",
+      "artists": [
+        "AP Dhillon",
+        "Gurinder Gill"
+      ],
+      "artist_str": "AP Dhillon, Gurinder Gill"
+    },
+    {
+      "name": "Dandelions",
+      "artists": [
+        "Ruth B."
+      ],
+      "artist_str": "Ruth B."
+    },
+    {
+      "name": "Jaadugar",
+      "artists": [
+        "Mahbub Islam"
+      ],
+      "artist_str": "Mahbub Islam"
+    },
+    {
+      "name": "Excuses",
+      "artists": [
+        "AP Dhillon",
+        "Gurinder Gill",
+        "Intense"
+      ],
+      "artist_str": "AP Dhillon, Gurinder Gill, Intense"
+    },
+    {
+      "name": "We Rollin",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Deva Deva",
+      "artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Amitabh Bhattacharya",
+        "Jonita Gandhi"
+      ],
+      "artist_str": "Pritam, Arijit Singh, Amitabh Bhattacharya, Jonita Gandhi"
+    },
+    {
+      "name": "Daku",
+      "artists": [
+        "Chani Nattan",
+        "Inderpal Moga"
+      ],
+      "artist_str": "Chani Nattan, Inderpal Moga"
+    },
+    {
+      "name": "Jaan Ban Gaye - LoFi",
+      "artists": [
+        "IAMPRANN"
+      ],
+      "artist_str": "IAMPRANN"
+    },
+    {
+      "name": "Can We Stay Forever?",
+      "artists": [
+        "joyvegas"
+      ],
+      "artist_str": "joyvegas"
+    },
+    {
+      "name": "Kun Faya Kun Lofi",
+      "artists": [
+        "Jahidul Hasan"
+      ],
+      "artist_str": "Jahidul Hasan"
+    },
+    {
+      "name": "Let Me Down Slowly X Main Dhoondne Ko Zamaane Mein - LoFi",
+      "artists": [
+        "IAMPRANN"
+      ],
+      "artist_str": "IAMPRANN"
+    },
+    {
+      "name": "Gangnam Style (강남스타일)",
+      "artists": [
+        "PSY"
+      ],
+      "artist_str": "PSY"
+    },
+    {
+      "name": "Mere Samnewali Khidki Mein - Lofi",
+      "artists": [
+        "Sachin Gupta",
+        "Sanam"
+      ],
+      "artist_str": "Sachin Gupta, Sanam"
+    },
+    {
+      "name": "Mere Samnewali Khidki Mein",
+      "artists": [
+        "Sanam",
+        "R. D. Burman"
+      ],
+      "artist_str": "Sanam, R. D. Burman"
+    },
+    {
+      "name": "Shor Sharaba",
+      "artists": [
+        "Ravator",
+        "Paradox"
+      ],
+      "artist_str": "Ravator, Paradox"
+    },
+    {
+      "name": "Hai Apna Dil To Aawara",
+      "artists": [
+        "Sanam",
+        "S. D. Burman"
+      ],
+      "artist_str": "Sanam, S. D. Burman"
+    },
+    {
+      "name": "Hai Apna Dil Toh Awara (From \"The Xpose\")",
+      "artists": [
+        "Himesh Reshammiya",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Himesh Reshammiya, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Boht Tej",
+      "artists": [
+        "Badshah",
+        "Fotty Seven"
+      ],
+      "artist_str": "Badshah, Fotty Seven"
+    },
+    {
+      "name": "Ambar Se Toda",
+      "artists": [
+        "Raag Patel",
+        "M. M. Keeravaani",
+        "Varun Grover"
+      ],
+      "artist_str": "Raag Patel, M. M. Keeravaani, Varun Grover"
+    },
+    {
+      "name": "Детство",
+      "artists": [
+        "Rauf & Faik"
+      ],
+      "artist_str": "Rauf & Faik"
+    },
+    {
+      "name": "New Americana",
+      "artists": [
+        "Mostus"
+      ],
+      "artist_str": "Mostus"
+    },
+    {
+      "name": "Close Eyes",
+      "artists": [
+        "DVRST"
+      ],
+      "artist_str": "DVRST"
+    },
+    {
+      "name": "Let Me Down Slowly",
+      "artists": [
+        "Alec Benjamin"
+      ],
+      "artist_str": "Alec Benjamin"
+    },
+    {
+      "name": "Hymn for the Weekend",
+      "artists": [
+        "Coldplay"
+      ],
+      "artist_str": "Coldplay"
+    },
+    {
+      "name": "Infinity",
+      "artists": [
+        "Jaymes Young"
+      ],
+      "artist_str": "Jaymes Young"
+    },
+    {
+      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "artists": [
+        "DJ Snake",
+        "Selena Gomez",
+        "Ozuna",
+        "Cardi B"
+      ],
+      "artist_str": "DJ Snake, Selena Gomez, Ozuna, Cardi B"
+    },
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "artist_str": "Måneskin"
+    },
+    {
+      "name": "Dynamite",
+      "artists": [
+        "BTS"
+      ],
+      "artist_str": "BTS"
+    },
+    {
+      "name": "lovely (with Khalid)",
+      "artists": [
+        "Billie Eilish",
+        "Khalid"
+      ],
+      "artist_str": "Billie Eilish, Khalid"
+    },
+    {
+      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "artists": [
+        "24kGoldn",
+        "Justin Bieber",
+        "J Balvin",
+        "iann dior"
+      ],
+      "artist_str": "24kGoldn, Justin Bieber, J Balvin, iann dior"
+    },
+    {
+      "name": "Fed Up",
+      "artists": [
+        "Bazanji"
+      ],
+      "artist_str": "Bazanji"
+    },
+    {
+      "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
+      "artists": [
+        "Devi Sri Prasad",
+        "Indravathi Chauhan",
+        "Chandra Bose"
+      ],
+      "artist_str": "Devi Sri Prasad, Indravathi Chauhan, Chandra Bose"
+    },
+    {
+      "name": "Cradles",
+      "artists": [
+        "Sub Urban"
+      ],
+      "artist_str": "Sub Urban"
+    },
+    {
+      "name": "Care Ni Karda (From \"Chhalaang\")",
+      "artists": [
+        "Sweetaj Brar",
+        "Yo Yo Honey Singh"
+      ],
+      "artist_str": "Sweetaj Brar, Yo Yo Honey Singh"
+    },
+    {
+      "name": "Tumsa Koi Pyaara (Lofi Mix)",
+      "artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Abhimanyu-Pragya"
+      ],
+      "artist_str": "Kumar Sanu, Alka Yagnik, Abhimanyu-Pragya"
+    },
+    {
+      "name": "Gangland",
+      "artists": [
+        "Mankirt Aulakh"
+      ],
+      "artist_str": "Mankirt Aulakh"
+    },
+    {
+      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+      "artists": [
+        "Arjun Kanungo",
+        "Mayur Puri",
+        "Badshah"
+      ],
+      "artist_str": "Arjun Kanungo, Mayur Puri, Badshah"
+    },
+    {
+      "name": "MONTERO (Call Me By Your Name)",
+      "artists": [
+        "Lil Nas X"
+      ],
+      "artist_str": "Lil Nas X"
+    },
+    {
+      "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "artists": [
+        "Javed Ali",
+        "Devi Sri Prasad"
+      ],
+      "artist_str": "Javed Ali, Devi Sri Prasad"
+    },
+    {
+      "name": "Kaanya Re Maanya",
+      "artists": [
+        "Rapperiya Baalam",
+        "Rahgir"
+      ],
+      "artist_str": "Rapperiya Baalam, Rahgir"
+    },
+    {
+      "name": "Gooda",
+      "artists": [
+        "Fotty Seven"
+      ],
+      "artist_str": "Fotty Seven"
+    },
+    {
+      "name": "No Love",
+      "artists": [
+        "Shubh"
+      ],
+      "artist_str": "Shubh"
+    },
+    {
+      "name": "Daaru Party",
+      "artists": [
+        "Millind Gaba"
+      ],
+      "artist_str": "Millind Gaba"
+    },
+    {
+      "name": "Brown Munde",
+      "artists": [
+        "AP Dhillon",
+        "Gminxr",
+        "Gurinder Gill",
+        "Shinda Kahlon"
+      ],
+      "artist_str": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon"
+    },
+    {
+      "name": "No Cap",
+      "artists": [
+        "KR$NA"
+      ],
+      "artist_str": "KR$NA"
+    },
+    {
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "artist_str": "Arizona Zervas"
+    },
+    {
+      "name": "Baazigar",
+      "artists": [
+        "DIVINE",
+        "Armani White"
+      ],
+      "artist_str": "DIVINE, Armani White"
+    },
+    {
+      "name": "Aathma Raama",
+      "artists": [
+        "Brodha V"
+      ],
+      "artist_str": "Brodha V"
+    },
+    {
+      "name": "Born to Shine",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "artist_str": "Diljit Dosanjh"
+    },
+    {
+      "name": "Unholy (feat. Kim Petras)",
+      "artists": [
+        "Sam Smith",
+        "Kim Petras"
+      ],
+      "artist_str": "Sam Smith, Kim Petras"
+    },
+    {
+      "name": "Hawa Hawa Ae Hawa",
+      "artists": [
+        "Hassan Jahangir"
+      ],
+      "artist_str": "Hassan Jahangir"
+    },
+    {
+      "name": "Achha Toh Hum - Trap Mix",
+      "artists": [
+        "Farooq Got Audio",
+        "Lata Mangeshkar",
+        "Kishore Kumar"
+      ],
+      "artist_str": "Farooq Got Audio, Lata Mangeshkar, Kishore Kumar"
+    },
+    {
+      "name": "Bindiya Chamkegi - Trap Mix",
+      "artists": [
+        "Farooq Got Audio",
+        "Lata Mangeshkar"
+      ],
+      "artist_str": "Farooq Got Audio, Lata Mangeshkar"
+    },
+    {
+      "name": "Jhoom - R&B Mix",
+      "artists": [
+        "Ali Zafar"
+      ],
+      "artist_str": "Ali Zafar"
+    },
+    {
+      "name": "Ghamand Kar (From \"Tanhaji - The Unsung Warrior\")",
+      "artists": [
+        "Sachet Tandon",
+        "Parampara Tandon",
+        "Sachet-Parampara"
+      ],
+      "artist_str": "Sachet Tandon, Parampara Tandon, Sachet-Parampara"
+    },
+    {
+      "name": "Bolo Har Har Har",
+      "artists": [
+        "Mithoon",
+        "Mohit Chauhan",
+        "Sukhwinder Singh",
+        "Badshah",
+        "Megha Sriram Dalton",
+        "Anugrah",
+        "Sandeep Shrivastava"
+      ],
+      "artist_str": "Mithoon, Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava"
+    },
+    {
+      "name": "Shoorveer",
+      "artists": [
+        "Rapperiya Baalam",
+        "Rajneesh Jaipuri"
+      ],
+      "artist_str": "Rapperiya Baalam, Rajneesh Jaipuri"
+    },
+    {
+      "name": "Shiv Tandav Stotram",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "artist_str": "Shankar Mahadevan"
+    },
+    {
+      "name": "Aarambh",
+      "artists": [
+        "Piyush Mishra"
+      ],
+      "artist_str": "Piyush Mishra"
+    },
+    {
+      "name": "Summer High",
+      "artists": [
+        "AP Dhillon"
+      ],
+      "artist_str": "AP Dhillon"
+    },
+    {
+      "name": "Doja",
+      "artists": [
+        "Central Cee"
+      ],
+      "artist_str": "Central Cee"
+    },
+    {
+      "name": "I Won",
+      "artists": [
+        "Ty Dolla $ign",
+        "Jack Harlow",
+        "24kGoldn"
+      ],
+      "artist_str": "Ty Dolla $ign, Jack Harlow, 24kGoldn"
+    },
+    {
+      "name": "Belly Dancer",
+      "artists": [
+        "Imanbek",
+        "BYOR"
+      ],
+      "artist_str": "Imanbek, BYOR"
+    },
+    {
+      "name": "The Box",
+      "artists": [
+        "Roddy Ricch"
+      ],
+      "artist_str": "Roddy Ricch"
+    },
+    {
+      "name": "Whoopty",
+      "artists": [
+        "CJ"
+      ],
+      "artist_str": "CJ"
+    },
+    {
+      "name": "Thunder",
+      "artists": [
+        "Gabry Ponte",
+        "LUM!X",
+        "Prezioso"
+      ],
+      "artist_str": "Gabry Ponte, LUM!X, Prezioso"
+    },
+    {
+      "name": "Mood (feat. iann dior)",
+      "artists": [
+        "24kGoldn",
+        "iann dior"
+      ],
+      "artist_str": "24kGoldn, iann dior"
+    },
+    {
+      "name": "Astronaut In The Ocean",
+      "artists": [
+        "Masked Wolf"
+      ],
+      "artist_str": "Masked Wolf"
+    },
+    {
+      "name": "Lalala",
+      "artists": [
+        "Y2K",
+        "bbno$"
+      ],
+      "artist_str": "Y2K, bbno$"
+    },
+    {
+      "name": "dumb dumb",
+      "artists": [
+        "mazie"
+      ],
+      "artist_str": "mazie"
+    },
+    {
+      "name": "Ram Siya Ram - Lo-fi",
+      "artists": [
+        "DJ RJ Bhadrak",
+        "Sachet Tandon"
+      ],
+      "artist_str": "DJ RJ Bhadrak, Sachet Tandon"
+    },
+    {
+      "name": "Shape of You X Mann Mera (Lofi Mashup) [Slowed and Reverb]",
+      "artists": [
+        "Swapnil Tiwari"
+      ],
+      "artist_str": "Swapnil Tiwari"
+    },
+    {
+      "name": "Cold Hours",
+      "artists": [
+        "aleemrk",
+        "Umair"
+      ],
+      "artist_str": "aleemrk, Umair"
+    },
+    {
+      "name": "Baller",
+      "artists": [
+        "Shubh",
+        "Ikky"
+      ],
+      "artist_str": "Shubh, Ikky"
+    },
+    {
+      "name": "Kesariya",
+      "artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Amitabh Bhattacharya"
+      ],
+      "artist_str": "Pritam, Arijit Singh, Amitabh Bhattacharya"
+    },
+    {
+      "name": "Love You Zindagi",
+      "artists": [
+        "Amit Trivedi",
+        "Jasleen Royal",
+        "Kausar Munir"
+      ],
+      "artist_str": "Amit Trivedi, Jasleen Royal, Kausar Munir"
+    },
+    {
+      "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+      "artists": [
+        "Arijit Singh",
+        "Mithoon"
+      ],
+      "artist_str": "Arijit Singh, Mithoon"
+    },
+    {
+      "name": "Kaise Hua (From \"Kabir Singh\")",
+      "artists": [
+        "Vishal Mishra",
+        "Manoj Muntashir"
+      ],
+      "artist_str": "Vishal Mishra, Manoj Muntashir"
+    },
+    {
+      "name": "Dekhte Dekhte",
+      "artists": [
+        "Atif Aslam",
+        "Nusrat Fateh Ali Khan",
+        "Rochak Kohli",
+        "Manoj Muntashir"
+      ],
+      "artist_str": "Atif Aslam, Nusrat Fateh Ali Khan, Rochak Kohli, Manoj Muntashir"
+    },
+    {
+      "name": "Badnam ( Orignal Version )",
+      "artists": [
+        "Mankirt Aulakh",
+        "DJ Flow"
+      ],
+      "artist_str": "Mankirt Aulakh, DJ Flow"
+    },
+    {
+      "name": "Na Ja",
+      "artists": [
+        "Pav Dharia"
+      ],
+      "artist_str": "Pav Dharia"
+    },
+    {
+      "name": "Khaab",
+      "artists": [
+        "Akhil"
+      ],
+      "artist_str": "Akhil"
+    },
+    {
+      "name": "Yaari",
+      "artists": [
+        "Nikk",
+        "Avneet Kaur"
+      ],
+      "artist_str": "Nikk, Avneet Kaur"
+    },
+    {
+      "name": "Jatti da Crush",
+      "artists": [
+        "Kay Vee Singh"
+      ],
+      "artist_str": "Kay Vee Singh"
+    },
+    {
+      "name": "Qismat",
+      "artists": [
+        "Ammy Virk"
+      ],
+      "artist_str": "Ammy Virk"
+    },
+    {
+      "name": "MIDDLE OF THE NIGHT",
+      "artists": [
+        "Elley Duhé"
+      ],
+      "artist_str": "Elley Duhé"
+    },
+    {
+      "name": "Despacito",
+      "artists": [
+        "Luis Fonsi",
+        "Daddy Yankee"
+      ],
+      "artist_str": "Luis Fonsi, Daddy Yankee"
+    },
+    {
+      "name": "Señorita",
+      "artists": [
+        "Shawn Mendes",
+        "Camila Cabello"
+      ],
+      "artist_str": "Shawn Mendes, Camila Cabello"
+    },
+    {
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "artists": [
+        "Imagine Dragons",
+        "JID",
+        "Arcane",
+        "League of Legends"
+      ],
+      "artist_str": "Imagine Dragons, JID, Arcane, League of Legends"
+    },
+    {
+      "name": "Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist",
+      "artists": [
+        "Manu Pilas"
+      ],
+      "artist_str": "Manu Pilas"
+    },
+    {
+      "name": "Young Shahrukh",
+      "artists": [
+        "Tesher"
+      ],
+      "artist_str": "Tesher"
+    },
+    {
+      "name": "Why This Kolaveri Di? - The Soup of Love",
+      "artists": [
+        "Anirudh Ravichander",
+        "Dhanush"
+      ],
+      "artist_str": "Anirudh Ravichander, Dhanush"
+    },
+    {
+      "name": "Bing Bing Boo!",
+      "artists": [
+        "Yashraj Mukhate",
+        "Rashmeet Kaur",
+        "Kisna"
+      ],
+      "artist_str": "Yashraj Mukhate, Rashmeet Kaur, Kisna"
+    },
+    {
+      "name": "Pani Da Rang (Male)",
+      "artists": [
+        "Ayushmann Khurrana"
+      ],
+      "artist_str": "Ayushmann Khurrana"
+    },
+    {
+      "name": "Parda Hata Do - Trap Mix",
+      "artists": [
+        "Farooq Got Audio",
+        "Asha Bhosle",
+        "Mohammed Rafi"
+      ],
+      "artist_str": "Farooq Got Audio, Asha Bhosle, Mohammed Rafi"
+    },
+    {
+      "name": "Udd Gaye",
+      "artists": [
+        "Ritviz"
+      ],
+      "artist_str": "Ritviz"
+    },
+    {
+      "name": "Gulabi Aankhen",
+      "artists": [
+        "Sanam"
+      ],
+      "artist_str": "Sanam"
+    },
+    {
+      "name": "Likhe Jo Khat Tujhe",
+      "artists": [
+        "Sanam"
+      ],
+      "artist_str": "Sanam"
+    },
+    {
+      "name": "My Life Is Going On - Música Original De La Serie De TV La Casa De Papel / Money Heist",
+      "artists": [
+        "Cecilia Krull"
+      ],
+      "artist_str": "Cecilia Krull"
+    },
+    {
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "artists": [
+        "Lil Nas X",
+        "Jack Harlow"
+      ],
+      "artist_str": "Lil Nas X, Jack Harlow"
+    },
+    {
+      "name": "Tu Aake Dekhle",
+      "artists": [
+        "King"
+      ],
+      "artist_str": "King"
+    },
+    {
+      "name": "Jhoom R&B Mix",
+      "artists": [
+        "Ali Zafar"
+      ],
+      "artist_str": "Ali Zafar"
+    },
+    {
+      "name": "Praise God",
+      "artists": [
+        "Kanye West"
+      ],
+      "artist_str": "Kanye West"
+    },
+    {
+      "name": "Toxic",
+      "artists": [
+        "BoyWithUke"
+      ],
+      "artist_str": "BoyWithUke"
+    },
+    {
+      "name": "Heat Waves",
+      "artists": [
+        "Glass Animals"
+      ],
+      "artist_str": "Glass Animals"
+    },
+    {
+      "name": "Pasoori",
+      "artists": [
+        "Ali Sethi",
+        "Shae Gill"
+      ],
+      "artist_str": "Ali Sethi, Shae Gill"
+    },
+    {
+      "name": "Falling",
+      "artists": [
+        "Besomorph",
+        "N3WPORT",
+        "Meo"
+      ],
+      "artist_str": "Besomorph, N3WPORT, Meo"
+    },
+    {
+      "name": "Candy Shop",
+      "artists": [
+        "50 Cent",
+        "Olivia"
+      ],
+      "artist_str": "50 Cent, Olivia"
+    },
+    {
+      "name": "In Da Club",
+      "artists": [
+        "50 Cent"
+      ],
+      "artist_str": "50 Cent"
+    },
+    {
+      "name": "SugarCrash!",
+      "artists": [
+        "ElyOtto"
+      ],
+      "artist_str": "ElyOtto"
+    },
+    {
+      "name": "Jalebi Baby",
+      "artists": [
+        "Tesher"
+      ],
+      "artist_str": "Tesher"
+    },
+    {
+      "name": "Skechers",
+      "artists": [
+        "DripReport"
+      ],
+      "artist_str": "DripReport"
+    },
+    {
+      "name": "Sugar & Brownies",
+      "artists": [
+        "DHARIA"
+      ],
+      "artist_str": "DHARIA"
+    },
+    {
+      "name": "Safari",
+      "artists": [
+        "Serena"
+      ],
+      "artist_str": "Serena"
+    },
+    {
+      "name": "Call Me When You Want Call Me When You Need",
+      "artists": [
+        "DJ Gotta"
+      ],
+      "artist_str": "DJ Gotta"
+    },
+    {
+      "name": "IDK You Yet",
+      "artists": [
+        "Alexander 23"
+      ],
+      "artist_str": "Alexander 23"
+    },
+    {
+      "name": "Old Town Road (feat. RM of BTS) - Seoul Town Road Remix",
+      "artists": [
+        "Lil Nas X",
+        "RM",
+        "BTS"
+      ],
+      "artist_str": "Lil Nas X, RM, BTS"
+    },
+    {
+      "name": "Baarish Ki Jaaye",
+      "artists": [
+        "B Praak",
+        "Nawazuddin Siddiqui",
+        "Sunanda Sharma"
+      ],
+      "artist_str": "B Praak, Nawazuddin Siddiqui, Sunanda Sharma"
+    },
+    {
+      "name": "Rockstar",
+      "artists": [
+        "Ilkay Sencan",
+        "Dynoro"
+      ],
+      "artist_str": "Ilkay Sencan, Dynoro"
+    },
+    {
+      "name": "First Kiss",
+      "artists": [
+        "Yo Yo Honey Singh",
+        "Ipsitaa"
+      ],
+      "artist_str": "Yo Yo Honey Singh, Ipsitaa"
+    },
+    {
+      "name": "Afsanay",
+      "artists": [
+        "Young Stunners",
+        "Talha Anjum",
+        "Talhah Yunus"
+      ],
+      "artist_str": "Young Stunners, Talha Anjum, Talhah Yunus"
+    },
+    {
+      "name": "Naacho Naacho (From \"RRR\")",
+      "artists": [
+        "Vishal Mishra",
+        "Rahul Sipligunj",
+        "M. M. Keeravaani",
+        "Riya Mukherjee"
+      ],
+      "artist_str": "Vishal Mishra, Rahul Sipligunj, M. M. Keeravaani, Riya Mukherjee"
+    },
+    {
+      "name": "Believer",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "artist_str": "Imagine Dragons"
+    },
+    {
+      "name": "MONEY",
+      "artists": [
+        "LISA"
+      ],
+      "artist_str": "LISA"
+    },
+    {
+      "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "artists": [
+        "Spice",
+        "Sean Paul",
+        "Shaggy"
+      ],
+      "artist_str": "Spice, Sean Paul, Shaggy"
+    },
+    {
+      "name": "Agar Tum Saath Ho",
+      "artists": [
+        "Alka Yagnik",
+        "Arijit Singh"
+      ],
+      "artist_str": "Alka Yagnik, Arijit Singh"
+    },
+    {
+      "name": "You",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "artist_str": "Armaan Malik"
+    },
+    {
+      "name": "Ranjha (From \"Shershaah\")",
+      "artists": [
+        "Jasleen Royal",
+        "B Praak",
+        "Romy"
+      ],
+      "artist_str": "Jasleen Royal, B Praak, Romy"
+    },
+    {
+      "name": "Barbaadiyan",
+      "artists": [
+        "Sachet Tandon",
+        "Nikhita Gandhi",
+        "Madhubanti Bagchi",
+        "Sachin-Jigar"
+      ],
+      "artist_str": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi, Sachin-Jigar"
+    },
+    {
+      "name": "STAY (with Justin Bieber)",
+      "artists": [
+        "The Kid LAROI",
+        "Justin Bieber"
+      ],
+      "artist_str": "The Kid LAROI, Justin Bieber"
+    },
+    {
+      "name": "SPACESHIP",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon",
+        "Gminxr"
+      ],
+      "artist_str": "AP Dhillon, Shinda Kahlon, Gminxr"
+    },
+    {
+      "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
+      "artists": [
+        "Anirudh Ravichander",
+        "Jonita Gandhi"
+      ],
+      "artist_str": "Anirudh Ravichander, Jonita Gandhi"
+    },
+    {
+      "name": "Into Your Arms (feat. Ava Max)",
+      "artists": [
+        "Witt Lowry",
+        "Ava Max"
+      ],
+      "artist_str": "Witt Lowry, Ava Max"
+    },
+    {
+      "name": "Unstoppable",
+      "artists": [
+        "Sia"
+      ],
+      "artist_str": "Sia"
+    },
+    {
+      "name": "I Like Me X Waalian X Kabhi Kabhi",
+      "artists": [
+        "Sanjay S Yadav",
+        "Dev Bhawsar"
+      ],
+      "artist_str": "Sanjay S Yadav, Dev Bhawsar"
+    },
+    {
+      "name": "Mumbai Dance",
+      "artists": [
+        "Nucleya",
+        "Julius Sylvest",
+        "Gagan Mudgal"
+      ],
+      "artist_str": "Nucleya, Julius Sylvest, Gagan Mudgal"
+    },
+    {
+      "name": "Ilahi",
+      "artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Amitabh Bhattacharya"
+      ],
+      "artist_str": "Pritam, Arijit Singh, Amitabh Bhattacharya"
+    },
+    {
+      "name": "Purpose Rap",
+      "artists": [
+        "Talha Anjum",
+        "Talhah Yunus",
+        "Young Stunners"
+      ],
+      "artist_str": "Talha Anjum, Talhah Yunus, Young Stunners"
+    },
+    {
+      "name": "Falak Tu Garaj Tu",
+      "artists": [
+        "Suchetha Basrur"
+      ],
+      "artist_str": "Suchetha Basrur"
+    },
+    {
+      "name": "Afsanay",
+      "artists": [
+        "Talhah Yunus",
+        "Talha Anjum",
+        "Young Stunners"
+      ],
+      "artist_str": "Talhah Yunus, Talha Anjum, Young Stunners"
+    },
+    {
+      "name": "Karachi Mera",
+      "artists": [
+        "Talha Anjum"
+      ],
+      "artist_str": "Talha Anjum"
+    },
+    {
+      "name": "Jeete Hain Chal",
+      "artists": [
+        "Kavita Seth"
+      ],
+      "artist_str": "Kavita Seth"
+    },
+    {
+      "name": "Punjabi Mashup",
+      "artists": [
+        "Arjun",
+        "Badshah",
+        "Bohemia",
+        "Diljit Dosanjh",
+        "Fateh",
+        "Gippy Grewal",
+        "Girik Aman",
+        "Gupz Sehra",
+        "Guru Randhawa",
+        "Hans Raj Hans"
+      ],
+      "artist_str": "Arjun, Badshah, Bohemia, Diljit Dosanjh, Fateh, Gippy Grewal, Girik Aman, Gupz Sehra, Guru Randhawa, Hans Raj Hans"
+    },
+    {
+      "name": "High Rated Gabru 52 Non Stop Hits(Remix By Mandy Birgi,Birgi Veerz)",
+      "artists": [
+        "Aarsh Benipal",
+        "Alfaaz",
+        "Ali Quli Mirza",
+        "Arjun",
+        "Arsh Maini",
+        "Bohemia",
+        "Deep Money",
+        "Dilbagh Singh",
+        "Divya Bhatt",
+        "Sukhbir"
+      ],
+      "artist_str": "Aarsh Benipal, Alfaaz, Ali Quli Mirza, Arjun, Arsh Maini, Bohemia, Deep Money, Dilbagh Singh, Divya Bhatt, Sukhbir"
+    },
+    {
+      "name": "Rara Riri Rara Reloaded",
+      "artists": [
+        "Gurvar Cheema",
+        "Sarbjit Cheema",
+        "Viruss",
+        "Ullumanati"
+      ],
+      "artist_str": "Gurvar Cheema, Sarbjit Cheema, Viruss, Ullumanati"
+    },
+    {
+      "name": "Zero Hour Mashup 2015",
+      "artists": [
+        "Amaal Mallik",
+        "Amitabh Bhattacharya",
+        "Arijit Singh",
+        "Atif Aslam",
+        "Badshah",
+        "Benny Dayal",
+        "Devi Sri Prasad",
+        "KK",
+        "Kanika Kapoor",
+        "Meet Bros."
+      ],
+      "artist_str": "Amaal Mallik, Amitabh Bhattacharya, Arijit Singh, Atif Aslam, Badshah, Benny Dayal, Devi Sri Prasad, KK, Kanika Kapoor, Meet Bros."
+    },
+    {
+      "name": "Offshore",
+      "artists": [
+        "Shubh",
+        "thiarajxtt"
+      ],
+      "artist_str": "Shubh, thiarajxtt"
+    },
+    {
+      "name": "Ghana Kasoota (feat. Surbhi Jyoti)",
+      "artists": [
+        "Raftaar",
+        "Rashmeet Kaur",
+        "Avvy Sra",
+        "Surbhi Jyoti"
+      ],
+      "artist_str": "Raftaar, Rashmeet Kaur, Avvy Sra, Surbhi Jyoti"
+    }
+  ],
+  "followed_artists": [],
+  "playlists": []
+}
