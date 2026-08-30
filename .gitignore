@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+browser.json
+oauth.json
+.spotify_cache
+*.token
+tokens.dat
+
+# SQLite database cache
+*.db
+*.db-journal
+migration_cache.db
+
+# Reports
+migration_summary.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
