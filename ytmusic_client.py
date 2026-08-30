@@ -75,21 +75,21 @@ class YTMusicClient:
             return None
 
     def add_tracks_to_playlist(self, playlist_id: str, video_ids: List[str]) -> bool:
-        """Adds video IDs in chunks of 50 to avoid API payload limits."""
+        """Adds video IDs in safe chunks of 15 with delays to ensure YouTube Music adds all of them."""
         if not video_ids:
             return True
-        chunk_size = 50
+        chunk_size = 15
         for i in range(0, len(video_ids), chunk_size):
             chunk = video_ids[i:i + chunk_size]
             try:
                 self.ytmusic.add_playlist_items(playlistId=playlist_id, videoIds=chunk, duplicates=False)
-                time.sleep(0.5)  # Slight throttle to be polite to YT API
+                time.sleep(1.0)  # Politeness delay for YouTube Music API
             except Exception:
                 # Try adding individually if chunk fails
                 for vid in chunk:
                     try:
                         self.ytmusic.add_playlist_items(playlistId=playlist_id, videoIds=[vid], duplicates=False)
-                        time.sleep(0.2)
+                        time.sleep(0.5)
                     except Exception:
                         pass
         return True
