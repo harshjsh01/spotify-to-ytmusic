@@ -23,6 +23,8 @@ ENV_PATH = Path(__file__).parent / ".env"
 SPOTIFY_JSON_PATH = Path(__file__).parent / "spotify_data.json"
 LIKED_SONG_PATH = Path(__file__).parent / "liked_song_data.json"
 DATA_LIKED_SONG_PATH = Path(__file__).parent / "data" / "liked_song_data.json"
+ARTISTS_PATH = Path(__file__).parent / "artists_data.json"
+DATA_ARTISTS_PATH = Path(__file__).parent / "data" / "artists_data.json"
 BROWSER_AUTH_PATH = Path(__file__).parent / "browser.json"
 OAUTH_PATH = Path(__file__).parent / "oauth.json"
 
@@ -37,7 +39,15 @@ def get_spotify_client() -> SpotifyWebClient:
     """Sets up Spotify client using JSON export or Web Player Bearer token."""
     load_config()
 
-    # 1. Check if liked_song_data.json or spotify_data.json exists
+    # 1. Check if artists_data.json or liked_song_data.json exists
+    if DATA_ARTISTS_PATH.exists():
+        console.print(f"[bold green]✔ Found '{DATA_ARTISTS_PATH}'! Loading artists...[/bold green]")
+        return SpotifyWebClient(json_file=str(DATA_ARTISTS_PATH))
+
+    if ARTISTS_PATH.exists():
+        console.print(f"[bold green]✔ Found '{ARTISTS_PATH.name}'! Loading artists...[/bold green]")
+        return SpotifyWebClient(json_file=str(ARTISTS_PATH))
+
     if DATA_LIKED_SONG_PATH.exists():
         console.print(f"[bold green]✔ Found '{DATA_LIKED_SONG_PATH}'! Loading library...[/bold green]")
         return SpotifyWebClient(json_file=str(DATA_LIKED_SONG_PATH))
