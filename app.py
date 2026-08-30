@@ -63,7 +63,7 @@ def init_clients():
     return spotify, ytmusic, storage, migrator
 
 
-def interactive_menu(spotify: SpotifyClient, migrator: Migrator, storage: Storage):
+def interactive_menu(spotify: SpotifyWebClient, migrator: Migrator, storage: Storage):
     while True:
         console.print(Panel("""[bold green]Choose an action:[/bold green]
 [1] 🚀 [bold]Full Migration[/bold] (Liked Songs + Followed Artists + Playlists)
