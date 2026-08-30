@@ -1,0 +1,310 @@
+{
+  "liked_songs": [
+    {
+      "id": "11K---Seedhe Maut",
+      "name": "11K",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "id": "Batti---Seedhe Maut,Sez on the Beat,Ab 17",
+      "name": "Batti",
+      "artists": [
+        "Seedhe Maut",
+        "Sez on the Beat",
+        "Ab 17"
+      ],
+      "artist_str": "Seedhe Maut, Sez on the Beat, Ab 17"
+    },
+    {
+      "id": "Asal G---Seedhe Maut,Faris Shafi,Talal Qureshi",
+      "name": "Asal G",
+      "artists": [
+        "Seedhe Maut",
+        "Faris Shafi",
+        "Talal Qureshi"
+      ],
+      "artist_str": "Seedhe Maut, Faris Shafi, Talal Qureshi"
+    },
+    {
+      "id": "TT---Seedhe Maut",
+      "name": "TT",
+      "artists": [
+        "Seedhe Maut"
+      ],
+      "artist_str": "Seedhe Maut"
+    },
+    {
+      "id": "Bure Din---Seedhe Maut,Mick Jenkins",
+      "name": "Bure Din",
+      "artists": [
+        "Seedhe Maut",
+        "Mick Jenkins"
+      ],
+      "artist_str": "Seedhe Maut, Mick Jenkins"
+    },
+    {
+      "id": "Champions---Seedhe Maut,Rawal",
+      "name": "Champions",
+      "artists": [
+        "Seedhe Maut",
+        "Rawal"
+      ],
+      "artist_str": "Seedhe Maut, Rawal"
+    },
+    {
+      "id": "Boyfriend---Karan Aujla,Ikky",
+      "name": "Boyfriend",
+      "artists": [
+        "Karan Aujla",
+        "Ikky"
+      ],
+      "artist_str": "Karan Aujla, Ikky"
+    },
+    {
+      "id": "Kath Lagda---Navaan Sandhu,Dhanda Nyoliwala,Sanya Dandona,RXTRO",
+      "name": "Kath Lagda",
+      "artists": [
+        "Navaan Sandhu",
+        "Dhanda Nyoliwala",
+        "Sanya Dandona",
+        "RXTRO"
+      ],
+      "artist_str": "Navaan Sandhu, Dhanda Nyoliwala, Sanya Dandona, RXTRO"
+    },
+    {
+      "id": "Headliner---Navaan Sandhu,Haakam",
+      "name": "Headliner",
+      "artists": [
+        "Navaan Sandhu",
+        "Haakam"
+      ],
+      "artist_str": "Navaan Sandhu, Haakam"
+    },
+    {
+      "id": "PYAAR?---Naam Sujal,Aditya Pushkarna",
+      "name": "PYAAR?",
+      "artists": [
+        "Naam Sujal",
+        "Aditya Pushkarna"
+      ],
+      "artist_str": "Naam Sujal, Aditya Pushkarna"
+    },
+    {
+      "id": "Wake Me Up---aleemrk,Jokhay",
+      "name": "Wake Me Up",
+      "artists": [
+        "aleemrk",
+        "Jokhay"
+      ],
+      "artist_str": "aleemrk, Jokhay"
+    },
+    {
+      "id": "We The Same---Addy Nagar",
+      "name": "We The Same",
+      "artists": [
+        "Addy Nagar"
+      ],
+      "artist_str": "Addy Nagar"
+    },
+    {
+      "id": "Western Up---Eshan Bhati,Ajitesh",
+      "name": "Western Up",
+      "artists": [
+        "Eshan Bhati",
+        "Ajitesh"
+      ],
+      "artist_str": "Eshan Bhati, Ajitesh"
+    },
+    {
+      "id": "Faisla---Miki Malang",
+      "name": "Faisla",
+      "artists": [
+        "Miki Malang"
+      ],
+      "artist_str": "Miki Malang"
+    },
+    {
+      "id": "Jat Clan---Dhanda Nyoliwala,Yogi Aulakh",
+      "name": "Jat Clan",
+      "artists": [
+        "Dhanda Nyoliwala",
+        "Yogi Aulakh"
+      ],
+      "artist_str": "Dhanda Nyoliwala, Yogi Aulakh"
+    },
+    {
+      "id": "Maruti---Dhanda Nyoliwala,Ron Likhari,Miki Malang",
+      "name": "Maruti",
+      "artists": [
+        "Dhanda Nyoliwala",
+        "Ron Likhari",
+        "Miki Malang"
+      ],
+      "artist_str": "Dhanda Nyoliwala, Ron Likhari, Miki Malang"
+    },
+    {
+      "id": "BHID MAT---Duryodhan Rana,Prodbysoundscape",
+      "name": "BHID MAT",
+      "artists": [
+        "Duryodhan Rana",
+        "Prodbysoundscape"
+      ],
+      "artist_str": "Duryodhan Rana, Prodbysoundscape"
+    },
+    {
+      "id": "La La La---Dhanda Nyoliwala",
+      "name": "La La La",
+      "artists": [
+        "Dhanda Nyoliwala"
+      ],
+      "artist_str": "Dhanda Nyoliwala"
+    },
+    {
+      "id": "4 Aadmi---Sumit Parta,Mr. Maxxx",
+      "name": "4 Aadmi",
+      "artists": [
+        "Sumit Parta",
+        "Mr. Maxxx"
+      ],
+      "artist_str": "Sumit Parta, Mr. Maxxx"
+    },
+    {
+      "id": "Banna---THE U.D,Lil Urban",
+      "name": "Banna",
+      "artists": [
+        "THE U.D",
+        "Lil Urban"
+      ],
+      "artist_str": "THE U.D, Lil Urban"
+    },
+    {
+      "id": "Illusion---Rawme Hooda,Riyaazi,Nishael",
+      "name": "Illusion",
+      "artists": [
+        "Rawme Hooda",
+        "Riyaazi",
+        "Nishael"
+      ],
+      "artist_str": "Rawme Hooda, Riyaazi, Nishael"
+    },
+    {
+      "id": "Bairan---Banjaare",
+      "name": "Bairan",
+      "artists": [
+        "Banjaare"
+      ],
+      "artist_str": "Banjaare"
+    },
+    {
+      "id": "Tainu Leke (From \"Salaam-E-Ishq\")---Sonu Nigam,Mahalakshmi Iyer",
+      "name": "Tainu Leke (From \"Salaam-E-Ishq\")",
+      "artists": [
+        "Sonu Nigam",
+        "Mahalakshmi Iyer"
+      ],
+      "artist_str": "Sonu Nigam, Mahalakshmi Iyer"
+    },
+    {
+      "id": "Ucha Lamba Kad---Anand Raj Anand,Kalpana Patowary,Chorus",
+      "name": "Ucha Lamba Kad",
+      "artists": [
+        "Anand Raj Anand",
+        "Kalpana Patowary",
+        "Chorus"
+      ],
+      "artist_str": "Anand Raj Anand, Kalpana Patowary, Chorus"
+    },
+    {
+      "id": "Chaudhary---Naveen Chaudhary,Kaka WRLD",
+      "name": "Chaudhary",
+      "artists": [
+        "Naveen Chaudhary",
+        "Kaka WRLD"
+      ],
+      "artist_str": "Naveen Chaudhary, Kaka WRLD"
+    },
+    {
+      "id": "Bheeda Palang---Bali Sharma,Anuj Bali Sharma",
+      "name": "Bheeda Palang",
+      "artists": [
+        "Bali Sharma",
+        "Anuj Bali Sharma"
+      ],
+      "artist_str": "Bali Sharma, Anuj Bali Sharma"
+    },
+    {
+      "id": "12 Bande---Varinder Brar",
+      "name": "12 Bande",
+      "artists": [
+        "Varinder Brar"
+      ],
+      "artist_str": "Varinder Brar"
+    },
+    {
+      "id": "Parche - \"From Shooter\"---Karaj Randhawa",
+      "name": "Parche - \"From Shooter\"",
+      "artists": [
+        "Karaj Randhawa"
+      ],
+      "artist_str": "Karaj Randhawa"
+    },
+    {
+      "id": "Lonely---Himesh Reshammiya,Yo Yo Honey Singh,Hamsika Iyer",
+      "name": "Lonely",
+      "artists": [
+        "Himesh Reshammiya",
+        "Yo Yo Honey Singh",
+        "Hamsika Iyer"
+      ],
+      "artist_str": "Himesh Reshammiya, Yo Yo Honey Singh, Hamsika Iyer"
+    }
+  ],
+  "followed_artists": [
+    {
+      "name": "Seedhe Maut"
+    },
+    {
+      "name": "Karan Aujla"
+    },
+    {
+      "name": "Navaan Sandhu"
+    },
+    {
+      "name": "Dhanda Nyoliwala"
+    },
+    {
+      "name": "Yo Yo Honey Singh"
+    },
+    {
+      "name": "Faris Shafi"
+    },
+    {
+      "name": "Talal Qureshi"
+    },
+    {
+      "name": "Rawal"
+    },
+    {
+      "name": "Ikky"
+    },
+    {
+      "name": "aleemrk"
+    },
+    {
+      "name": "Sonu Nigam"
+    },
+    {
+      "name": "Himesh Reshammiya"
+    },
+    {
+      "name": "Sez on the Beat"
+    },
+    {
+      "name": "Ab 17"
+    }
+  ],
+  "playlists": []
+}
