@@ -6,7 +6,7 @@ from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRemainingColumn
 from rich.table import Table
 
-from spotify_client import SpotifyClient
+from spotify_client import SpotifyNoDevClient
 from ytmusic_client import YTMusicClient
 from matcher import clean_title, find_best_track_match
 from storage import Storage
@@ -15,7 +15,7 @@ console = Console()
 
 
 class Migrator:
-    def __init__(self, spotify: SpotifyClient, ytmusic: YTMusicClient, storage: Storage):
+    def __init__(self, spotify: Any, ytmusic: YTMusicClient, storage: Storage):
         self.spotify = spotify
         self.ytmusic = ytmusic
         self.storage = storage

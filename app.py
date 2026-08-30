@@ -6,8 +6,8 @@ from rich.panel import Panel
 from rich.prompt import Prompt, Confirm
 from rich.table import Table
 
-from config import ensure_spotify_credentials, ensure_ytmusic_auth
-from spotify_client import SpotifyClient
+from config import get_spotify_client, ensure_ytmusic_auth
+from spotify_client import SpotifyNoDevClient
 from ytmusic_client import YTMusicClient
 from storage import Storage
 from migrator import Migrator
@@ -31,14 +31,13 @@ def show_banner():
 
 
 def init_clients():
-    console.print("[bold yellow]1. Authenticating Spotify...[/bold yellow]")
-    client_id, client_secret, redirect_uri = ensure_spotify_credentials()
-    spotify = SpotifyClient(client_id=client_id, client_secret=client_secret, redirect_uri=redirect_uri)
+    console.print("[bold yellow]1. Connecting Spotify Library...[/bold yellow]")
     try:
+        spotify = get_spotify_client()
         user = spotify.get_user_profile()
-        console.print(f"[bold green]✔ Logged into Spotify as:[/bold green] {user.get('display_name')} ({user.get('id')})\n")
+        console.print(f"[bold green]✔ Loaded Spotify Library for:[/bold green] {user.get('display_name', 'User')}\n")
     except Exception as e:
-        console.print(f"[bold red]Failed to connect to Spotify: {e}[/bold red]")
+        console.print(f"[bold red]Failed to load Spotify data: {e}[/bold red]")
         sys.exit(1)
 
     console.print("[bold yellow]2. Authenticating YouTube Music...[/bold yellow]")
